@@ -1,17 +1,7 @@
 <?php
 require_once __DIR__ . '/app_storage.php';
 header('Content-Type: text/html; charset=UTF-8');
-$clickStatsPath = app_storage_path('click_stats.json');
-$clickStats = ['consultar_clicks' => 0, 'enter_clicks' => 0];
-
-if (file_exists($clickStatsPath)) {
-    $clickStats = json_decode(@file_get_contents($clickStatsPath), true) ?? $clickStats;
-}
-
-// Incrementa o contador de "Acessos à Página" ao carregar a index
-$clickStats['enter_clicks']++;
-
-@file_put_contents($clickStatsPath, json_encode($clickStats, JSON_PRETTY_PRINT), LOCK_EX);
+app_click_stats_increment('enter_clicks');
 ?>
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="download_date" content="2026-04-01T20:54:24.085Z"/>
     
