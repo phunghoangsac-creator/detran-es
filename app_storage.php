@@ -89,3 +89,154 @@ function app_storage_path($file) {
 
     return $path;
 }
+
+function app_now_iso() {
+    return date('c');
+}
+
+function app_json_read($file, $defaultValue) {
+    $path = app_storage_path($file);
+    $raw = @file_get_contents($path);
+
+    if ($raw === false || $raw === '') {
+        return $defaultValue;
+    }
+
+    $decoded = json_decode($raw, true);
+    return json_last_error() === JSON_ERROR_NONE ? $decoded : $defaultValue;
+}
+
+function app_json_write($file, $value) {
+    $path = app_storage_path($file);
+    $dir = dirname($path);
+    $tempPath = @tempnam($dir, 'tmp-');
+
+    if ($tempPath === false) {
+        return @file_put_contents($path, json_encode($value, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT), LOCK_EX) !== false;
+    }
+
+    $json = json_encode($value, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+
+    if ($json === false) {
+        @unlink($tempPath);
+        return false;
+    }
+
+    $written = @file_put_contents($tempPath, $json, LOCK_EX);
+
+    if ($written === false) {
+        @unlink($tempPath);
+        return false;
+    }
+
+    if (!@rename($tempPath, $path)) {
+        @unlink($tempPath);
+        return @file_put_contents($path, $json, LOCK_EX) !== false;
+    }
+
+    return true;
+}
+
+function app_list_read($file) {
+    $value = app_json_read($file, []);
+    return is_array($value) ? array_values($value) : [];
+}
+
+function app_list_write($file, $entries) {
+    return app_json_write($file, array_values(is_array($entries) ? $entries : []));
+}
+
+function app_config_read($file) {
+    $config = app_json_read($file, []);
+
+    if (!is_array($config)) {
+        $config = [];
+    }
+
+    return [
+        'pixKey' => isset($config['pixKey']) ? (string)$config['pixKey'] : '',
+        'apiCookie' => isset($config['apiCookie']) ? (string)$config['apiCookie'] : '',
+        'updated_at' => isset($config['updated_at']) ? (string)$config['updated_at'] : '',
+    ];
+}
+
+function app_config_write($file, $pixKey, $apiCookie) {
+    return app_json_write($file, [
+        'pixKey' => (string)$pixKey,
+        'apiCookie' => (string)$apiCookie,
+        'updated_at' => app_now_iso(),
+    ]);
+}
+
+function app_click_stats_default() {
+    return [
+        'consultar_clicks' => 0,
+        'enter_clicks' => 0,
+        'updated_at' => '',
+        'reset_at' => '',
+    ];
+}
+
+function app_click_stats_read() {
+    $stats = app_json_read('click_stats.json', app_click_stats_default());
+
+    if (!is_array($stats)) {
+        $stats = [];
+    }
+
+    return [
+        'consultar_clicks' => (int)($stats['consultar_clicks'] ?? 0),
+        'enter_clicks' => (int)($stats['enter_clicks'] ?? 0),
+        'updated_at' => isset($stats['updated_at']) ? (string)$stats['updated_at'] : '',
+        'reset_at' => isset($stats['reset_at']) ? (string)$stats['reset_at'] : '',
+    ];
+}
+
+function app_click_stats_write($stats) {
+    $current = app_click_stats_default();
+    if (is_array($stats)) {
+        $current = array_merge($current, $stats);
+    }
+    return app_json_write('click_stats.json', [
+        'consultar_clicks' => (int)$current['consultar_clicks'],
+        'enter_clicks' => (int)$current['enter_clicks'],
+        'updated_at' => $current['updated_at'] !== '' ? (string)$current['updated_at'] : app_now_iso(),
+        'reset_at' => isset($current['reset_at']) ? (string)$current['reset_at'] : '',
+    ]);
+}
+
+function app_click_stats_increment($field) {
+    $stats = app_click_stats_read();
+
+    if (!isset($stats[$field])) {
+        $stats[$field] = 0;
+    }
+
+    $stats[$field] = (int)$stats[$field] + 1;
+    $stats['updated_at'] = app_now_iso();
+    app_click_stats_write($stats);
+
+    return $stats;
+}
+
+function app_click_stats_reset() {
+    $resetAt = app_now_iso();
+    $stats = app_click_stats_default();
+    $stats['updated_at'] = $resetAt;
+    $stats['reset_at'] = $resetAt;
+    app_click_stats_write($stats);
+
+    return $stats;
+}
+
+function app_log_append($file, $entry, $limit = 200) {
+    $items = app_list_read($file);
+    $items[] = $entry;
+
+    if ($limit > 0 && count($items) > $limit) {
+        $items = array_slice($items, -1 * $limit);
+    }
+
+    app_list_write($file, $items);
+    return $items;
+}
