@@ -1,0 +1,61 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/index.php",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/debitos.php",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    }
+  ],
+  "functions": {
+    "api/router.php": {
+      "runtime": "vercel-php@0.9.0",
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/([^/]+\\.(json|txt))",
+      "dest": "/api/router.php?__storage=$1"
+    },
+    {
+      "src": "/index\\.php",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/debitos\\.php",
+      "dest": "/debitos.html"
+    },
+    {
+      "src": "/([^/]+\\.php)",
+      "dest": "/api/router.php?__file=$1"
+    }
+  ]
+}

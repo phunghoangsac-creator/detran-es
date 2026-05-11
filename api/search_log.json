@@ -1,0 +1,37 @@
+[
+    {
+        "ts": "2026-05-08 20:12:49",
+        "plate": "MTU4E63",
+        "renavam": "00257367330",
+        "ip": "172.64.222.226",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Mobile Safari\/537.36"
+    },
+    {
+        "ts": "2026-05-08 20:18:10",
+        "plate": "MQB4867",
+        "renavam": "00278645542",
+        "ip": "172.64.222.226",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Mobile Safari\/537.36"
+    },
+    {
+        "ts": "2026-05-08 20:19:25",
+        "plate": "QRM3A33",
+        "renavam": "01217945331",
+        "ip": "172.69.114.50",
+        "ua": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.1 Mobile\/15E148 Safari\/604.1"
+    },
+    {
+        "ts": "2026-05-08 20:19:41",
+        "plate": "RCX8I79",
+        "renavam": "01247655030",
+        "ip": "172.64.222.226",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Mobile Safari\/537.36"
+    },
+    {
+        "ts": "2026-05-08 20:23:30",
+        "plate": "MSZ9021",
+        "renavam": "00183087461",
+        "ip": "172.69.93.133",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/148.0.0.0 Safari\/537.36 Edg\/148.0.0.0"
+    }
+]

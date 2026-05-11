@@ -1,0 +1,6146 @@
+[
+    {
+        "ts": "2026-03-11T00:59:54+01:00",
+        "placa": "HTJ6D12",
+        "renavam": "00165990724",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-11T00:05:52+01:00",
+        "placa": "HTJ6D12",
+        "renavam": "00165990724",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-11T00:04:54+01:00",
+        "placa": "HTJ6D12",
+        "renavam": "00165990724",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-11T00:02:53+01:00",
+        "placa": "NRI0G07",
+        "renavam": "00231624018",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-11T00:02:26+01:00",
+        "placa": "NRI0G07",
+        "renavam": "00231624018",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-11T00:02:04+01:00",
+        "placa": "00231624018",
+        "renavam": "00231624018",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T20:38:26+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T20:26:19+00:00",
+        "placa": "NRU6052",
+        "renavam": "00485789949",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T20:25:40+00:00",
+        "placa": "NRU6052",
+        "renavam": "00485789949",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T20:25:40+00:00",
+        "placa": "NRN7H92",
+        "renavam": "00335593585",
+        "resultado": "R$ 1.048,85"
+    },
+    {
+        "ts": "2026-03-10T20:25:18+00:00",
+        "placa": "HRD3283",
+        "renavam": "00626210003",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T20:16:56+00:00",
+        "placa": "SME0C23",
+        "renavam": "01419859738",
+        "resultado": "R$ 930,51"
+    },
+    {
+        "ts": "2026-03-10T20:11:23+00:00",
+        "placa": "SME0C23",
+        "renavam": "01419859738",
+        "resultado": "R$ 930,51"
+    },
+    {
+        "ts": "2026-03-10T20:09:42+00:00",
+        "placa": "ECI9G51",
+        "renavam": "00387487557",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T20:09:12+00:00",
+        "placa": "GCG8B15",
+        "renavam": "00387487557",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T20:08:53+00:00",
+        "placa": "REY9B61",
+        "renavam": "01283281136",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T20:07:21+00:00",
+        "placa": "SMC1F49",
+        "renavam": "01410403634",
+        "resultado": "R$ 2.377,55"
+    },
+    {
+        "ts": "2026-03-10T20:07:18+00:00",
+        "placa": "ALM3398",
+        "renavam": "000801494923",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T20:07:10+00:00",
+        "placa": "QAH4639",
+        "renavam": "01133508267",
+        "resultado": "R$ 1.274,83"
+    },
+    {
+        "ts": "2026-03-10T20:06:43+00:00",
+        "placa": "ALM3398",
+        "renavam": "801494923",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T18:34:50+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T18:34:10+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:55:23+00:00",
+        "placa": "NRI0G07",
+        "renavam": "0023162",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:49:01+00:00",
+        "placa": "SLY1C37",
+        "renavam": "01378874126",
+        "resultado": "R$ 408,73"
+    },
+    {
+        "ts": "2026-03-10T16:45:59+00:00",
+        "placa": "NRI0G07",
+        "renavam": "00231624018",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-10T16:45:40+00:00",
+        "placa": "HTJ6D12",
+        "renavam": "00165990724",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T16:45:05+00:00",
+        "placa": "SMD6D98",
+        "renavam": "01417011839",
+        "resultado": "R$ 431,41"
+    },
+    {
+        "ts": "2026-03-10T16:44:53+00:00",
+        "placa": "HTJ6D12",
+        "renavam": "254321133378",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:42:15+00:00",
+        "placa": "OOQ4106",
+        "renavam": "01043257745",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:41:45+00:00",
+        "placa": "SMD6D98",
+        "renavam": "01417011839",
+        "resultado": "R$ 431,41"
+    },
+    {
+        "ts": "2026-03-10T16:40:28+00:00",
+        "placa": "AJL6767",
+        "renavam": "00743406044",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T16:39:54+00:00",
+        "placa": "NRU5323",
+        "renavam": "00479439109",
+        "resultado": "R$ 902,58"
+    },
+    {
+        "ts": "2026-03-10T16:38:41+00:00",
+        "placa": "RWB1A05",
+        "renavam": "01293493942",
+        "resultado": "R$ 510,94"
+    },
+    {
+        "ts": "2026-03-10T16:31:31+00:00",
+        "placa": "DSE3A13",
+        "renavam": "00890009775",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T16:31:29+00:00",
+        "placa": "RWF6F62",
+        "renavam": "01339087631",
+        "resultado": "R$ 2.566,15"
+    },
+    {
+        "ts": "2026-03-10T16:30:55+00:00",
+        "placa": "OAN3440",
+        "renavam": "00395774390",
+        "resultado": "R$ 757,86"
+    },
+    {
+        "ts": "2026-03-10T16:30:16+00:00",
+        "placa": "FIP4D78",
+        "renavam": "00541823116",
+        "resultado": "R$ 978,40"
+    },
+    {
+        "ts": "2026-03-10T16:29:46+00:00",
+        "placa": "763ABXT",
+        "renavam": "5668641",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:29:42+00:00",
+        "placa": "OAN 3440",
+        "renavam": "00395774390",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:29:24+00:00",
+        "placa": "BAN2C49",
+        "renavam": "00475615360",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:26:15+00:00",
+        "placa": "FIP4D78",
+        "renavam": "00541823116",
+        "resultado": "R$ 978,40"
+    },
+    {
+        "ts": "2026-03-10T16:05:45+00:00",
+        "placa": "SIP1B60",
+        "renavam": "01357539743",
+        "resultado": "R$ 2.175,38"
+    },
+    {
+        "ts": "2026-03-10T16:04:09+00:00",
+        "placa": "QAL7616",
+        "renavam": "00126726884",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T16:03:53+00:00",
+        "placa": "QAL7616",
+        "renavam": "00126726884",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T15:56:42+00:00",
+        "placa": "OOS9E53",
+        "renavam": "01061233020",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:51:06+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:50:07+00:00",
+        "placa": "HTS4G94",
+        "renavam": "00229040292",
+        "resultado": "R$ 549,89"
+    },
+    {
+        "ts": "2026-03-10T15:50:06+00:00",
+        "placa": "HTL1I65",
+        "renavam": "00979306019",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:49:48+00:00",
+        "placa": "HTD5D53",
+        "renavam": "00965705366",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:35:39+00:00",
+        "placa": "ETR9J21",
+        "renavam": "00322229898",
+        "resultado": "R$ 1.016,08"
+    },
+    {
+        "ts": "2026-03-10T15:35:19+00:00",
+        "placa": "HRA3026",
+        "renavam": "00378516620",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-10T15:23:01+00:00",
+        "placa": "HRG7151",
+        "renavam": "00777168111",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:20:10+00:00",
+        "placa": "QAI3688",
+        "renavam": "01144140888",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T15:19:55+00:00",
+        "placa": "QAI3688",
+        "renavam": "01144140888",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T15:19:38+00:00",
+        "placa": "QAI3688",
+        "renavam": "01144140888",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T15:15:42+00:00",
+        "placa": "HRG7151",
+        "renavam": "00777168111",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:07:26+00:00",
+        "placa": "CHF0801",
+        "renavam": "00665296304",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:05:27+00:00",
+        "placa": "HTO7792",
+        "renavam": "00509793100",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:05:25+00:00",
+        "placa": "JTZ5622",
+        "renavam": "00752681249",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T15:05:11+00:00",
+        "placa": "SMF5E92",
+        "renavam": "01428970344",
+        "resultado": "R$ 452,68"
+    },
+    {
+        "ts": "2026-03-10T15:01:16+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T14:52:38+00:00",
+        "placa": "QAX7C15",
+        "renavam": "01243497600",
+        "resultado": "R$ 2.484,81"
+    },
+    {
+        "ts": "2026-03-10T14:51:29+00:00",
+        "placa": "QAX7C15",
+        "renavam": "01243497600",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:50:41+00:00",
+        "placa": "QAX7C15",
+        "renavam": "0123497600",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:50:27+00:00",
+        "placa": "REZ8H92",
+        "renavam": "01285410073",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T14:49:46+00:00",
+        "placa": "OCV7C65",
+        "renavam": "O0326133020",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:49:03+00:00",
+        "placa": "OCV7C65",
+        "renavam": "Oo326133020",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:48:44+00:00",
+        "placa": "RWC0C00",
+        "renavam": "01299735964",
+        "resultado": "R$ 541,91"
+    },
+    {
+        "ts": "2026-03-10T14:48:38+00:00",
+        "placa": "HTV5895",
+        "renavam": "00283489162",
+        "resultado": "R$ 482,13"
+    },
+    {
+        "ts": "2026-03-10T14:48:07+00:00",
+        "placa": "RWC0C00",
+        "renavam": "01299735964",
+        "resultado": "R$ 541,91"
+    },
+    {
+        "ts": "2026-03-10T14:48:02+00:00",
+        "placa": "NSD2J63",
+        "renavam": "00568066642",
+        "resultado": "R$ 1.641,66"
+    },
+    {
+        "ts": "2026-03-10T14:47:05+00:00",
+        "placa": "HRZ3367",
+        "renavam": "00802595782",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T14:46:44+00:00",
+        "placa": "HSI8713",
+        "renavam": "00923046089",
+        "resultado": "R$ 925,64"
+    },
+    {
+        "ts": "2026-03-10T14:46:42+00:00",
+        "placa": "NRV0850",
+        "renavam": "00527214060",
+        "resultado": "R$ 1.807,12"
+    },
+    {
+        "ts": "2026-03-10T14:46:37+00:00",
+        "placa": "HTD1042",
+        "renavam": "00114866929",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T14:46:23+00:00",
+        "placa": "SMW6C73",
+        "renavam": "09696561115",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:45:48+00:00",
+        "placa": "NRV0850",
+        "renavam": "00527214060",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:43:07+00:00",
+        "placa": "RATX6H91",
+        "renavam": "01292941003",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:41:45+00:00",
+        "placa": "HPP4645",
+        "renavam": "00803945558",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-10T14:41:41+00:00",
+        "placa": "REZ8H92",
+        "renavam": "01285410073",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T14:36:39+00:00",
+        "placa": "HSI8713",
+        "renavam": "00334500770",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T14:34:36+00:00",
+        "placa": "HSI8713",
+        "renavam": "00923046089",
+        "resultado": "R$ 925,64"
+    },
+    {
+        "ts": "2026-03-10T14:19:59+00:00",
+        "placa": "NRJ7E49",
+        "renavam": "00281738165",
+        "resultado": "R$ 864,41"
+    },
+    {
+        "ts": "2026-03-10T13:57:43+00:00",
+        "placa": "HTD2108",
+        "renavam": "00930082265",
+        "resultado": "R$ 1.604,54"
+    },
+    {
+        "ts": "2026-03-10T13:57:23+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:34:04+00:00",
+        "placa": "QAG3981",
+        "renavam": "01123504676",
+        "resultado": "R$ 469,10"
+    },
+    {
+        "ts": "2026-03-10T13:32:32+00:00",
+        "placa": "QAG3981",
+        "renavam": "01123504676",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:31:19+00:00",
+        "placa": "HRC4180",
+        "renavam": "6202284536",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:30:52+00:00",
+        "placa": "HRC4180",
+        "renavam": "6202284536",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:30:33+00:00",
+        "placa": "OOK4C08",
+        "renavam": "01069390060",
+        "resultado": "R$ 1.434,15"
+    },
+    {
+        "ts": "2026-03-10T13:30:14+00:00",
+        "placa": "EUB4D81",
+        "renavam": "00333897145",
+        "resultado": "R$ 883,60"
+    },
+    {
+        "ts": "2026-03-10T13:29:48+00:00",
+        "placa": "HRC4180",
+        "renavam": "620284536",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:27:00+00:00",
+        "placa": "NRF6C11",
+        "renavam": "00254248870",
+        "resultado": "R$ 371,95"
+    },
+    {
+        "ts": "2026-03-10T13:26:12+00:00",
+        "placa": "NRJ7E49",
+        "renavam": "00281738165",
+        "resultado": "R$ 864,41"
+    },
+    {
+        "ts": "2026-03-10T13:24:22+00:00",
+        "placa": "EUB4D81",
+        "renavam": "00333897145",
+        "resultado": "R$ 883,60"
+    },
+    {
+        "ts": "2026-03-10T13:23:07+00:00",
+        "placa": "NRJ7E49",
+        "renavam": "00281738165",
+        "resultado": "R$ 864,41"
+    },
+    {
+        "ts": "2026-03-10T13:20:27+00:00",
+        "placa": "OOS3D97",
+        "renavam": "010583533",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:18:29+00:00",
+        "placa": "OOS3D97",
+        "renavam": "01054353433",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:18:02+00:00",
+        "placa": "SMG9F83",
+        "renavam": "01441333077",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:17:37+00:00",
+        "placa": "QAO6872",
+        "renavam": "01183440542",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:15:09+00:00",
+        "placa": "NSC0B66",
+        "renavam": "00551101741",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:13:46+00:00",
+        "placa": "NRJ7E49",
+        "renavam": "00281738165",
+        "resultado": "R$ 864,41"
+    },
+    {
+        "ts": "2026-03-10T13:13:28+00:00",
+        "placa": "HTG0194",
+        "renavam": "00165085550",
+        "resultado": "R$ 1.340,77"
+    },
+    {
+        "ts": "2026-03-10T13:13:15+00:00",
+        "placa": "SCR8F70",
+        "renavam": "01338461637",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:12:59+00:00",
+        "placa": "NRW8114",
+        "renavam": "00496352997",
+        "resultado": "R$ 619,99"
+    },
+    {
+        "ts": "2026-03-10T13:11:43+00:00",
+        "placa": "NRW8114",
+        "renavam": "496352997",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:11:22+00:00",
+        "placa": "OOT9861",
+        "renavam": "01086919758",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:10:47+00:00",
+        "placa": "HSI8A87",
+        "renavam": "00928063445",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-10T13:10:00+00:00",
+        "placa": "IES1826",
+        "renavam": "652325807",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:09:11+00:00",
+        "placa": "NRK0651",
+        "renavam": "282241787",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:08:26+00:00",
+        "placa": "NRQ4403",
+        "renavam": "454761562",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:08:11+00:00",
+        "placa": "QAC0E53",
+        "renavam": "01092138762",
+        "resultado": "R$ 404,79"
+    },
+    {
+        "ts": "2026-03-10T13:05:50+00:00",
+        "placa": "JGW2E11",
+        "renavam": "00127894101",
+        "resultado": "R$ 1.882,21"
+    },
+    {
+        "ts": "2026-03-10T13:05:16+00:00",
+        "placa": "QAM7I71",
+        "renavam": "01170417830",
+        "resultado": "R$ 2.424,39"
+    },
+    {
+        "ts": "2026-03-10T13:03:44+00:00",
+        "placa": "HQM1C62",
+        "renavam": "00613546180",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:02:23+00:00",
+        "placa": "DYG7752",
+        "renavam": "00915097443",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T13:00:35+00:00",
+        "placa": "QAW 8C81",
+        "renavam": "01236951953",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T13:00:12+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:59:54+00:00",
+        "placa": "QAW 8C81",
+        "renavam": "012369519553",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:58:23+00:00",
+        "placa": "DYG7752",
+        "renavam": "00915097443",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:57:33+00:00",
+        "placa": "HRP6469",
+        "renavam": "00728098172",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:55:08+00:00",
+        "placa": "QAV5166",
+        "renavam": "01228524553",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:54:44+00:00",
+        "placa": "QAV5166",
+        "renavam": "01228524553",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:54:27+00:00",
+        "placa": "HTD2108",
+        "renavam": "00930082265",
+        "resultado": "R$ 1.604,54"
+    },
+    {
+        "ts": "2026-03-10T12:54:01+00:00",
+        "placa": "HRD2108",
+        "renavam": "00930082265",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:52:37+00:00",
+        "placa": "EQA3014",
+        "renavam": "00208132295",
+        "resultado": "R$ 536,89"
+    },
+    {
+        "ts": "2026-03-10T12:51:27+00:00",
+        "placa": "EQA3014",
+        "renavam": "00208132295",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:50:42+00:00",
+        "placa": "HTB3396",
+        "renavam": "00971792771",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:50:23+00:00",
+        "placa": "QBE6D46",
+        "renavam": "01047640845",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:47:00+00:00",
+        "placa": "EUP6E52",
+        "renavam": "00331586231",
+        "resultado": "R$ 669,45"
+    },
+    {
+        "ts": "2026-03-10T12:46:03+00:00",
+        "placa": "EYH2328",
+        "renavam": "00341047724",
+        "resultado": "R$ 896,80"
+    },
+    {
+        "ts": "2026-03-10T12:45:45+00:00",
+        "placa": "NQJ1891",
+        "renavam": "01038048270",
+        "resultado": "R$ 1.462,28"
+    },
+    {
+        "ts": "2026-03-10T12:44:50+00:00",
+        "placa": "OOI2987",
+        "renavam": "01021892600",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:42:00+00:00",
+        "placa": "DJN6012",
+        "renavam": "00810790122",
+        "resultado": "R$ 1.353,34"
+    },
+    {
+        "ts": "2026-03-10T12:40:00+00:00",
+        "placa": "HSH7E36",
+        "renavam": "00944690378",
+        "resultado": "R$ 384,14"
+    },
+    {
+        "ts": "2026-03-10T12:39:03+00:00",
+        "placa": "HBG0639",
+        "renavam": "00827430736",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:38:29+00:00",
+        "placa": "SMD6C42",
+        "renavam": "01416883123",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-10T12:38:07+00:00",
+        "placa": "HBG0G39",
+        "renavam": "827430736",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:37:35+00:00",
+        "placa": "HBG0639",
+        "renavam": "827430736",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:37:13+00:00",
+        "placa": "HSH7E36",
+        "renavam": "00944690378",
+        "resultado": "R$ 384,14"
+    },
+    {
+        "ts": "2026-03-10T12:35:42+00:00",
+        "placa": "IQA5D72",
+        "renavam": "00158299540",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:34:48+00:00",
+        "placa": "IQA5D72",
+        "renavam": "00158299540",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:30:14+00:00",
+        "placa": "NSA9513",
+        "renavam": "00533812623",
+        "resultado": "R$ 787,54"
+    },
+    {
+        "ts": "2026-03-10T12:29:54+00:00",
+        "placa": "NRY5791",
+        "renavam": "00529112078",
+        "resultado": "R$ 943,00"
+    },
+    {
+        "ts": "2026-03-10T12:29:31+00:00",
+        "placa": "NDA9513",
+        "renavam": "00533812623",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:28:59+00:00",
+        "placa": "HSE4J71",
+        "renavam": "00860237885",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:27:44+00:00",
+        "placa": "HSE4J71",
+        "renavam": "00860237885",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:26:43+00:00",
+        "placa": "NRO4D55",
+        "renavam": "00411643908",
+        "resultado": "R$ 684,20"
+    },
+    {
+        "ts": "2026-03-10T12:26:32+00:00",
+        "placa": "HSE4J71",
+        "renavam": "00860237885",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:24:26+00:00",
+        "placa": "NRO4D55",
+        "renavam": "00411643908",
+        "resultado": "R$ 684,20"
+    },
+    {
+        "ts": "2026-03-10T12:21:27+00:00",
+        "placa": "OOS3D97",
+        "renavam": "01058353433",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:20:53+00:00",
+        "placa": "OOS3D97",
+        "renavam": "01058343533",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T12:09:01+00:00",
+        "placa": "HSO9D45",
+        "renavam": "00884500586",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T12:08:26+00:00",
+        "placa": "HSP8H83",
+        "renavam": "00329763121",
+        "resultado": "R$ 388,91"
+    },
+    {
+        "ts": "2026-03-10T12:05:00+00:00",
+        "placa": "NRX7328",
+        "renavam": "00557421136",
+        "resultado": "R$ 689,46"
+    },
+    {
+        "ts": "2026-03-10T12:04:13+00:00",
+        "placa": "NRX7328",
+        "renavam": "557421136",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T11:55:32+00:00",
+        "placa": "HSO9D45",
+        "renavam": "00884500586",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-10T11:41:42+00:00",
+        "placa": "NRU4H70",
+        "renavam": "00480119325",
+        "resultado": "R$ 1.254,22"
+    },
+    {
+        "ts": "2026-03-10T07:46:02+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-10T01:05:40+00:00",
+        "placa": "HFP1013",
+        "renavam": "00901940003",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-09T23:10:37+00:00",
+        "placa": "RWC6F32",
+        "renavam": "01304129869",
+        "resultado": "R$ 2.501,74"
+    },
+    {
+        "ts": "2026-03-09T23:09:56+00:00",
+        "placa": "NRP2B01",
+        "renavam": "00331612046",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T22:21:33+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T21:43:47+00:00",
+        "placa": "HFP1013",
+        "renavam": "00901940003",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-09T21:32:07+00:00",
+        "placa": "NRU4H70",
+        "renavam": "00480119325",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T21:30:53+00:00",
+        "placa": "NRP2B01",
+        "renavam": "00331612046",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T21:30:51+00:00",
+        "placa": "AXV3969",
+        "renavam": "00598439838",
+        "resultado": "R$ 1.617,24"
+    },
+    {
+        "ts": "2026-03-09T21:29:00+00:00",
+        "placa": "NRP2B01",
+        "renavam": "00331612046",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T21:28:50+00:00",
+        "placa": "KAL2561",
+        "renavam": "00119446880",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-09T21:28:02+00:00",
+        "placa": "HTE9812",
+        "renavam": "00132430290",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T21:27:04+00:00",
+        "placa": "NRU4H70",
+        "renavam": "00480119325",
+        "resultado": "R$ 1.253,63"
+    },
+    {
+        "ts": "2026-03-09T21:26:32+00:00",
+        "placa": "NRP2B01",
+        "renavam": "00331612046",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T21:26:01+00:00",
+        "placa": "HSH8B37",
+        "renavam": "00941341062",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T21:25:02+00:00",
+        "placa": "NRP2B01",
+        "renavam": "00331612046",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T21:21:38+00:00",
+        "placa": "HSP4576",
+        "renavam": "00884377482",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-09T21:21:13+00:00",
+        "placa": "HSP4576",
+        "renavam": "884377482",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T21:08:51+00:00",
+        "placa": "NRT9D88",
+        "renavam": "00567854485",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T21:07:50+00:00",
+        "placa": "NRT9DD88",
+        "renavam": "00567854485",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T21:06:04+00:00",
+        "placa": "RBR5H45",
+        "renavam": "01240242163",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T20:32:23+00:00",
+        "placa": "SMC9C56",
+        "renavam": "01407153479",
+        "resultado": "R$ 1.506,49"
+    },
+    {
+        "ts": "2026-03-09T20:30:28+00:00",
+        "placa": "SMC9C56",
+        "renavam": "01407153479",
+        "resultado": "R$ 1.506,49"
+    },
+    {
+        "ts": "2026-03-09T20:30:13+00:00",
+        "placa": "OON5G33",
+        "renavam": "01030492856",
+        "resultado": "R$ 833,57"
+    },
+    {
+        "ts": "2026-03-09T20:29:34+00:00",
+        "placa": "HTA6J35",
+        "renavam": "00957772051",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T20:29:33+00:00",
+        "placa": "OON5G33",
+        "renavam": "01030482856",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T20:26:35+00:00",
+        "placa": "OON5G33",
+        "renavam": "01030492856",
+        "resultado": "R$ 833,57"
+    },
+    {
+        "ts": "2026-03-09T20:25:49+00:00",
+        "placa": "RWA2F83",
+        "renavam": "01288024603",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T20:25:48+00:00",
+        "placa": "REZ3A63",
+        "renavam": "01274291159",
+        "resultado": "R$ 2.580,67"
+    },
+    {
+        "ts": "2026-03-09T20:25:42+00:00",
+        "placa": "OON5G33",
+        "renavam": "01030492858",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T20:25:18+00:00",
+        "placa": "FHA9129",
+        "renavam": "00506222098",
+        "resultado": "R$ 939,70"
+    },
+    {
+        "ts": "2026-03-09T20:25:00+00:00",
+        "placa": "OON5G33",
+        "renavam": "01030482858",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T20:24:56+00:00",
+        "placa": "HSA1025",
+        "renavam": "00781359376",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T20:24:35+00:00",
+        "placa": "OON5G33",
+        "renavam": "01030482856",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T20:19:38+00:00",
+        "placa": "OSV6F36",
+        "renavam": "0595863094",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T20:17:27+00:00",
+        "placa": "HTR9C91",
+        "renavam": "00219535027",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T20:16:44+00:00",
+        "placa": "JZI9448",
+        "renavam": "00741486148",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-09T20:11:16+00:00",
+        "placa": "HSP2416",
+        "renavam": "00883130491",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-09T19:33:52+00:00",
+        "placa": "RWC6F32",
+        "renavam": "01304129869",
+        "resultado": "R$ 2.501,74"
+    },
+    {
+        "ts": "2026-03-09T19:19:24+00:00",
+        "placa": "RWB6E88",
+        "renavam": "01297316638",
+        "resultado": "R$ 3.870,98"
+    },
+    {
+        "ts": "2026-03-09T19:18:12+00:00",
+        "placa": "RWB6E88",
+        "renavam": "264590303191",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T19:17:57+00:00",
+        "placa": "RWB6E88",
+        "renavam": "264590303191",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T19:17:54+00:00",
+        "placa": "RWB7B67",
+        "renavam": "01297764924",
+        "resultado": "R$ 4.393,24"
+    },
+    {
+        "ts": "2026-03-09T19:04:16+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T19:02:20+00:00",
+        "placa": "RWC6F32",
+        "renavam": "01304129869",
+        "resultado": "R$ 2.501,74"
+    },
+    {
+        "ts": "2026-03-09T19:01:33+00:00",
+        "placa": "NRO7128",
+        "renavam": "00402416058",
+        "resultado": "R$ 710,63"
+    },
+    {
+        "ts": "2026-03-09T19:01:24+00:00",
+        "placa": "QAL5183",
+        "renavam": "01160572442",
+        "resultado": "R$ 2.036,21"
+    },
+    {
+        "ts": "2026-03-09T19:00:17+00:00",
+        "placa": "SCQ7E29",
+        "renavam": "01408535910",
+        "resultado": "R$ 5.129,62"
+    },
+    {
+        "ts": "2026-03-09T18:59:20+00:00",
+        "placa": "NRX0B27",
+        "renavam": "00564785393",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:58:52+00:00",
+        "placa": "NRO7128",
+        "renavam": "00402416058",
+        "resultado": "R$ 710,63"
+    },
+    {
+        "ts": "2026-03-09T18:56:35+00:00",
+        "placa": "FXC9B28",
+        "renavam": "01267372807",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:54:35+00:00",
+        "placa": "DFI7J11",
+        "renavam": "00802500773",
+        "resultado": "R$ 2.030,42"
+    },
+    {
+        "ts": "2026-03-09T18:50:49+00:00",
+        "placa": "QAM3501",
+        "renavam": "01164897753",
+        "resultado": "R$ 1.157,35"
+    },
+    {
+        "ts": "2026-03-09T18:49:14+00:00",
+        "placa": "HSA2436",
+        "renavam": "00785087109",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:49:05+00:00",
+        "placa": "HTI2G38",
+        "renavam": "00973673885",
+        "resultado": "R$ 2.303,47"
+    },
+    {
+        "ts": "2026-03-09T18:48:03+00:00",
+        "placa": "RWE0D71",
+        "renavam": "01323894699",
+        "resultado": "R$ 2.992,89"
+    },
+    {
+        "ts": "2026-03-09T18:47:49+00:00",
+        "placa": "QAY9D41",
+        "renavam": "01251756015",
+        "resultado": "R$ 12.896,48"
+    },
+    {
+        "ts": "2026-03-09T18:47:45+00:00",
+        "placa": "HTI2G38",
+        "renavam": "00973673885",
+        "resultado": "R$ 2.303,47"
+    },
+    {
+        "ts": "2026-03-09T18:47:45+00:00",
+        "placa": "QAZ5G63",
+        "renavam": "01262690657",
+        "resultado": "R$ 1.989,67"
+    },
+    {
+        "ts": "2026-03-09T18:46:24+00:00",
+        "placa": "SMA0F88",
+        "renavam": "01393023743",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:45:47+00:00",
+        "placa": "SMAOF88",
+        "renavam": "01393023743",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:43:41+00:00",
+        "placa": "OMN7J06",
+        "renavam": "00495619248",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:43:39+00:00",
+        "placa": "SMC2J41",
+        "renavam": "01412208790",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-09T18:43:15+00:00",
+        "placa": "RWE5A67",
+        "renavam": "01327283422",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:42:21+00:00",
+        "placa": "OOI",
+        "renavam": "00997098600",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:42:20+00:00",
+        "placa": "PFW1E54",
+        "renavam": "00527306207",
+        "resultado": "R$ 786,17"
+    },
+    {
+        "ts": "2026-03-09T18:42:06+00:00",
+        "placa": "PFW1E54",
+        "renavam": "527306207",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:41:24+00:00",
+        "placa": "OOU8G04",
+        "renavam": "01072816218",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:39:59+00:00",
+        "placa": "DFI7J11",
+        "renavam": "00802500773",
+        "resultado": "R$ 2.030,42"
+    },
+    {
+        "ts": "2026-03-09T18:39:54+00:00",
+        "placa": "NRT7B89",
+        "renavam": "00493650342",
+        "resultado": "R$ 372,79"
+    },
+    {
+        "ts": "2026-03-09T18:39:25+00:00",
+        "placa": "RWE5A67",
+        "renavam": "01327283422",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:39:16+00:00",
+        "placa": "EPA8D44",
+        "renavam": "01248547370",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T18:37:14+00:00",
+        "placa": "RWC3D64",
+        "renavam": "01302196038",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:36:02+00:00",
+        "placa": "HRB8746",
+        "renavam": "132521687",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:34:04+00:00",
+        "placa": "SHH3E32",
+        "renavam": "01341826020",
+        "resultado": "R$ 2.862,55"
+    },
+    {
+        "ts": "2026-03-09T18:31:31+00:00",
+        "placa": "OOJ8A99",
+        "renavam": "1005716177",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:31:11+00:00",
+        "placa": "EPA8D44",
+        "renavam": "1248547370",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:30:55+00:00",
+        "placa": "NRT5507",
+        "renavam": "00481833005",
+        "resultado": "R$ 763,36"
+    },
+    {
+        "ts": "2026-03-09T18:30:14+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:28:09+00:00",
+        "placa": "QLF9G52",
+        "renavam": "01112540439",
+        "resultado": "R$ 2.019,73"
+    },
+    {
+        "ts": "2026-03-09T18:27:17+00:00",
+        "placa": "QLF9G52",
+        "renavam": "01112504039",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:26:51+00:00",
+        "placa": "QLD9G52",
+        "renavam": "01112504039",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:21:56+00:00",
+        "placa": "QAY 6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:21:39+00:00",
+        "placa": "NRI5798",
+        "renavam": "00450729249",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:21:04+00:00",
+        "placa": "NRI5798",
+        "renavam": "00450729249",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:20:56+00:00",
+        "placa": "QAY6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:20:43+00:00",
+        "placa": "NRI5798",
+        "renavam": "00450729249",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:20:41+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:20:20+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:20:19+00:00",
+        "placa": "QAY 6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:19:54+00:00",
+        "placa": "NRY9363",
+        "renavam": "505163276",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:19:49+00:00",
+        "placa": "QAY 6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:19:04+00:00",
+        "placa": "SHH3E32",
+        "renavam": "01341826020",
+        "resultado": "R$ 2.862,55"
+    },
+    {
+        "ts": "2026-03-09T18:18:42+00:00",
+        "placa": "JZZ6125",
+        "renavam": "00854757678",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:18:12+00:00",
+        "placa": "HSZ7465",
+        "renavam": "00914178245",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-09T18:15:50+00:00",
+        "placa": "QAY 6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:15:11+00:00",
+        "placa": "QAY 6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:14:46+00:00",
+        "placa": "QAY 6D33",
+        "renavam": "1250267606",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:14:24+00:00",
+        "placa": "HRX7543",
+        "renavam": "00750726504",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-09T18:12:49+00:00",
+        "placa": "HRX7543",
+        "renavam": "00750726504",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-09T18:11:58+00:00",
+        "placa": "QAX3I63",
+        "renavam": "01240751980",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:11:07+00:00",
+        "placa": "HTB 6003",
+        "renavam": "86144197168",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:10:18+00:00",
+        "placa": "HTB 6003",
+        "renavam": "86144197168",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:10:00+00:00",
+        "placa": "QAS0680",
+        "renavam": "01214804150",
+        "resultado": "R$ 527,96"
+    },
+    {
+        "ts": "2026-03-09T18:09:38+00:00",
+        "placa": "HTB 6003",
+        "renavam": "86144197168",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:09:24+00:00",
+        "placa": "QAS0680",
+        "renavam": "1214804150",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:09:13+00:00",
+        "placa": "QAS0680",
+        "renavam": "1214804150",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:07:33+00:00",
+        "placa": "BAN4J25",
+        "renavam": "01087779909",
+        "resultado": "R$ 831,73"
+    },
+    {
+        "ts": "2026-03-09T18:06:11+00:00",
+        "placa": "GIH2I20",
+        "renavam": "01083138950",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:05:46+00:00",
+        "placa": "GIH2I20",
+        "renavam": "01083138950",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T18:02:27+00:00",
+        "placa": "AHW7804",
+        "renavam": "00700140140",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-09T18:01:52+00:00",
+        "placa": "AHW7804",
+        "renavam": "00700140140",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T17:43:57+00:00",
+        "placa": "ECK7H98",
+        "renavam": "00198266782",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-09T17:43:35+00:00",
+        "placa": "ECK7H98",
+        "renavam": "ECK7H98",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T17:39:28+00:00",
+        "placa": "NRY8I78",
+        "renavam": "00504861808",
+        "resultado": "R$ 3.433,00"
+    },
+    {
+        "ts": "2026-03-09T17:39:13+00:00",
+        "placa": "NRY8I78",
+        "renavam": "00157072770",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T17:38:11+00:00",
+        "placa": "SMB6J72",
+        "renavam": "01402564217",
+        "resultado": "R$ 2.375,30"
+    },
+    {
+        "ts": "2026-03-09T17:37:46+00:00",
+        "placa": "BJJ6I81",
+        "renavam": "00621122572",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-09T17:37:02+00:00",
+        "placa": "NSD5A24",
+        "renavam": "00565723200",
+        "resultado": "R$ 798,13"
+    },
+    {
+        "ts": "2026-03-09T17:35:40+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "R$ 1.166,20"
+    },
+    {
+        "ts": "2026-03-09T16:58:43+00:00",
+        "placa": "NRT1000",
+        "renavam": "00334005973",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:58:22+00:00",
+        "placa": "NRT1000",
+        "renavam": "0334005973",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:57:47+00:00",
+        "placa": "NRT1000",
+        "renavam": "00334005973",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:34:15+00:00",
+        "placa": "NSD5A24",
+        "renavam": "00565723200",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:30:12+00:00",
+        "placa": "ETR9J21",
+        "renavam": "00322229898",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:30:06+00:00",
+        "placa": "ETR9J21",
+        "renavam": "00322229898",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:29:44+00:00",
+        "placa": "ETR9J21",
+        "renavam": "00322229898",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:29:15+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:29:03+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:27:32+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:27:13+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:27:00+00:00",
+        "placa": "RHF0I54",
+        "renavam": "1267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:26:53+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:26:44+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T16:26:36+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:52:35+00:00",
+        "placa": "ANB8F58",
+        "renavam": "10648471071",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:49:39+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:48:05+00:00",
+        "placa": "ANB8F58",
+        "renavam": "2787142326",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:47:12+00:00",
+        "placa": "HFW7261",
+        "renavam": "00917846648",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:47:01+00:00",
+        "placa": "NRT1000",
+        "renavam": "00334005973",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:47:00+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:46:40+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:46:32+00:00",
+        "placa": "HQM203",
+        "renavam": "00131786628",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:46:16+00:00",
+        "placa": "HFW7261",
+        "renavam": "00917846648",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:45:20+00:00",
+        "placa": "HQM2E03",
+        "renavam": "00131786628",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:45:17+00:00",
+        "placa": "NRT1000",
+        "renavam": "00334005973",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T15:44:57+00:00",
+        "placa": "NRT1000",
+        "renavam": "0033405973",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T14:37:13+00:00",
+        "placa": "ECK7H98",
+        "renavam": "00198266782",
+        "resultado": "R$ 239,99"
+    },
+    {
+        "ts": "2026-03-09T14:06:12+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 239,99"
+    },
+    {
+        "ts": "2026-03-09T13:33:52+00:00",
+        "placa": "QAD1E12",
+        "renavam": "01061511429",
+        "resultado": "R$ 1.500,92"
+    },
+    {
+        "ts": "2026-03-09T13:32:29+00:00",
+        "placa": "HSI8975",
+        "renavam": "00933314779",
+        "resultado": "R$ 239,99"
+    },
+    {
+        "ts": "2026-03-09T13:32:07+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "R$ 1.165,70"
+    },
+    {
+        "ts": "2026-03-09T13:28:17+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "R$ 1.165,70"
+    },
+    {
+        "ts": "2026-03-09T13:28:02+00:00",
+        "placa": "HTG8A11",
+        "renavam": "254472441500",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T13:26:24+00:00",
+        "placa": "NRX0824",
+        "renavam": "00599781483",
+        "resultado": "R$ 446,21"
+    },
+    {
+        "ts": "2026-03-09T13:25:31+00:00",
+        "placa": "OON9208",
+        "renavam": "01028212728",
+        "resultado": "R$ 1.195,59"
+    },
+    {
+        "ts": "2026-03-09T13:11:51+00:00",
+        "placa": "NSD5A24",
+        "renavam": "00565723200",
+        "resultado": "R$ 797,63"
+    },
+    {
+        "ts": "2026-03-09T13:11:06+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 239,99"
+    },
+    {
+        "ts": "2026-03-09T13:10:59+00:00",
+        "placa": "OOO6824",
+        "renavam": "01048326982",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-09T13:10:01+00:00",
+        "placa": "SMB6J72",
+        "renavam": "01402564217",
+        "resultado": "R$ 3.234,74"
+    },
+    {
+        "ts": "2026-03-09T13:05:55+00:00",
+        "placa": "NRX0824",
+        "renavam": "00599781483",
+        "resultado": "R$ 7.108,74"
+    },
+    {
+        "ts": "2026-03-09T13:04:26+00:00",
+        "placa": "QAC2J05",
+        "renavam": "01067262498",
+        "resultado": "R$ 1.855,33"
+    },
+    {
+        "ts": "2026-03-09T10:26:43+00:00",
+        "placa": "JJK0D01",
+        "renavam": "00458604461",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-08T22:50:58+00:00",
+        "placa": "NSA8J55",
+        "renavam": "00528749242",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-08T22:18:46+00:00",
+        "placa": "AWC6093",
+        "renavam": "00492545367",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-08T11:53:17+00:00",
+        "placa": "JJK0D01",
+        "renavam": "00458604461",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-08T11:53:02+00:00",
+        "placa": "JJK0D01",
+        "renavam": "00458604461",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-08T11:42:13+00:00",
+        "placa": "SDFSFSFDSDF",
+        "renavam": "sfdsdfsdfsfdsf",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-08T00:07:33+00:00",
+        "placa": "NRR7A46",
+        "renavam": "00465868983",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-08T00:05:23+00:00",
+        "placa": "NRR7A46",
+        "renavam": "00465868983",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-08T00:02:04+00:00",
+        "placa": "HVD7292",
+        "renavam": "00673330060",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-08T00:01:25+00:00",
+        "placa": "AWC6093",
+        "renavam": "00492545367",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-08T00:00:14+00:00",
+        "placa": "NRL3976",
+        "renavam": "00395065941",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:59:39+00:00",
+        "placa": "NRL3976",
+        "renavam": "00395065941",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:59:14+00:00",
+        "placa": "NRL3976",
+        "renavam": "00395065941",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:59:00+00:00",
+        "placa": "NEL3976",
+        "renavam": "00395065941",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:58:33+00:00",
+        "placa": "NRL3976",
+        "renavam": "00395065941",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:57:18+00:00",
+        "placa": "HSG4286",
+        "renavam": "00878019421",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:56:05+00:00",
+        "placa": "HSG4286",
+        "renavam": "00878019421",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:55:50+00:00",
+        "placa": "DCD5802",
+        "renavam": "00754794229",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:55:00+00:00",
+        "placa": "AWC6093",
+        "renavam": "00492545367",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:54:19+00:00",
+        "placa": "NRL3976",
+        "renavam": "00395065941",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:50:06+00:00",
+        "placa": "HTC2707",
+        "renavam": "10985475820",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:49:51+00:00",
+        "placa": "HTP",
+        "renavam": "001984483317",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:42:25+00:00",
+        "placa": "HTP",
+        "renavam": "00198448317",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:36:23+00:00",
+        "placa": "DZX0G33",
+        "renavam": "00944262554",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:35:50+00:00",
+        "placa": "CWZ0419",
+        "renavam": "00717117677",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:35:26+00:00",
+        "placa": "NRH-3499",
+        "renavam": "00330716522",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:35:14+00:00",
+        "placa": "CWZ0419",
+        "renavam": "00717117677",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T23:32:32+00:00",
+        "placa": "HTU1H73",
+        "renavam": "00282429255",
+        "resultado": "R$ 398,47"
+    },
+    {
+        "ts": "2026-03-07T23:27:57+00:00",
+        "placa": "CWZ0419",
+        "renavam": "00717117677",
+        "resultado": "R$ 641,01"
+    },
+    {
+        "ts": "2026-03-07T23:22:51+00:00",
+        "placa": "NKG7H29",
+        "renavam": "00948019417",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-07T23:06:25+00:00",
+        "placa": "SMD3G05",
+        "renavam": "01409833027",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-07T23:01:42+00:00",
+        "placa": "HSD2J69",
+        "renavam": "00829857257",
+        "resultado": "R$ 864,81"
+    },
+    {
+        "ts": "2026-03-07T23:01:18+00:00",
+        "placa": "NOX2F73",
+        "renavam": "00308770056",
+        "resultado": "R$ 1.208,55"
+    },
+    {
+        "ts": "2026-03-07T22:54:19+00:00",
+        "placa": "REZ5B92",
+        "renavam": "01275777608",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T22:42:04+00:00",
+        "placa": "ECK7H98",
+        "renavam": "00198266782",
+        "resultado": "R$ 984,17"
+    },
+    {
+        "ts": "2026-03-07T22:36:05+00:00",
+        "placa": "SMG4E10",
+        "renavam": "01437147817",
+        "resultado": "R$ 984,17"
+    },
+    {
+        "ts": "2026-03-07T22:34:56+00:00",
+        "placa": "CCM2185",
+        "renavam": "123456789",
+        "resultado": "R$ 984,17"
+    },
+    {
+        "ts": "2026-03-07T22:29:52+00:00",
+        "placa": "OOI7C69",
+        "renavam": "01006719030",
+        "resultado": "R$ 984,17"
+    },
+    {
+        "ts": "2026-03-07T22:13:01+00:00",
+        "placa": "NCD8944",
+        "renavam": "00804299846",
+        "resultado": "R$ 7.273,59"
+    },
+    {
+        "ts": "2026-03-07T22:11:34+00:00",
+        "placa": "NRX0824",
+        "renavam": "00599781483",
+        "resultado": "R$ 7.273,59"
+    },
+    {
+        "ts": "2026-03-07T22:04:09+00:00",
+        "placa": "FSJ2886",
+        "renavam": "01010971279",
+        "resultado": "R$ 789,50"
+    },
+    {
+        "ts": "2026-03-07T21:59:06+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 789,50"
+    },
+    {
+        "ts": "2026-03-07T21:58:02+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T21:56:28+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T21:51:02+00:00",
+        "placa": "RWE6D31",
+        "renavam": "01328076250",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T21:50:22+00:00",
+        "placa": "DDX7115",
+        "renavam": "759695741",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T21:35:54+00:00",
+        "placa": "NRV3B35",
+        "renavam": "00488749433",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T21:33:38+00:00",
+        "placa": "NRV3B35",
+        "renavam": "00488749433",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T21:22:16+00:00",
+        "placa": "ETR9J21",
+        "renavam": "00322229898",
+        "resultado": "R$ 1.015,43"
+    },
+    {
+        "ts": "2026-03-07T21:16:07+00:00",
+        "placa": "HSJ9606",
+        "renavam": "00987615335",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T21:15:33+00:00",
+        "placa": "RWE6D31",
+        "renavam": "01328076250",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T21:13:16+00:00",
+        "placa": "KDX8A07",
+        "renavam": "00720686431",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T21:12:44+00:00",
+        "placa": "QAR 0978",
+        "renavam": "01199206714",
+        "resultado": "R$ 1.015,43"
+    },
+    {
+        "ts": "2026-03-07T21:12:08+00:00",
+        "placa": "CEE7545",
+        "renavam": "00661408949",
+        "resultado": "R$ 1.015,43"
+    },
+    {
+        "ts": "2026-03-07T21:12:01+00:00",
+        "placa": "QAR 0978",
+        "renavam": "Qar0978",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T21:11:30+00:00",
+        "placa": "ETR9J21",
+        "renavam": "00322229898",
+        "resultado": "R$ 1.015,43"
+    },
+    {
+        "ts": "2026-03-07T21:10:52+00:00",
+        "placa": "OOU2959",
+        "renavam": "01074390757",
+        "resultado": "R$ 1.572,86"
+    },
+    {
+        "ts": "2026-03-07T21:10:42+00:00",
+        "placa": "SMC4A26",
+        "renavam": "01413014981",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T21:10:05+00:00",
+        "placa": "QAR 0978",
+        "renavam": "01199206714",
+        "resultado": "R$ 1.572,86"
+    },
+    {
+        "ts": "2026-03-07T21:10:05+00:00",
+        "placa": "OOU2959",
+        "renavam": "01074390757",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T21:09:53+00:00",
+        "placa": "SMC4A26",
+        "renavam": "01413014981",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T21:06:34+00:00",
+        "placa": "SMC4A26",
+        "renavam": "01413014981",
+        "resultado": "R$ 2.552,44"
+    },
+    {
+        "ts": "2026-03-07T21:03:19+00:00",
+        "placa": "QAY7I24",
+        "renavam": "01251096058",
+        "resultado": "R$ 2.552,44"
+    },
+    {
+        "ts": "2026-03-07T20:59:08+00:00",
+        "placa": "SMJ4F19",
+        "renavam": "01463024026",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:56:09+00:00",
+        "placa": "HTD 5716",
+        "renavam": "00120213257",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:53:35+00:00",
+        "placa": "HTD5716",
+        "renavam": "00120213257",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:44:09+00:00",
+        "placa": "HRU0592",
+        "renavam": "00746635214",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:42:15+00:00",
+        "placa": "HRU0592",
+        "renavam": "00746635214",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:41:46+00:00",
+        "placa": "SMD8I72",
+        "renavam": "01470092210",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:40:09+00:00",
+        "placa": "HMD0D42",
+        "renavam": "00307508757",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:38:17+00:00",
+        "placa": "ACF3B02",
+        "renavam": "00511258488",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:38:09+00:00",
+        "placa": "HSJ9447",
+        "renavam": "923287329",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:32:59+00:00",
+        "placa": "RWE0H13",
+        "renavam": "01324387715",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:30:58+00:00",
+        "placa": "HSW1781",
+        "renavam": "00791041190",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:29:57+00:00",
+        "placa": "HSW1781",
+        "renavam": "00791041190",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:10:31+00:00",
+        "placa": "NRK7570",
+        "renavam": "00333666860",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T20:09:26+00:00",
+        "placa": "NRK7570",
+        "renavam": "00333666860",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T20:07:05+00:00",
+        "placa": "NRK7570",
+        "renavam": "00333666860",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T19:40:31+00:00",
+        "placa": "SMD8I72",
+        "renavam": "01470092210",
+        "resultado": "R$ 1.933,15"
+    },
+    {
+        "ts": "2026-03-07T19:36:39+00:00",
+        "placa": "SMD8I73",
+        "renavam": "01418897210",
+        "resultado": "R$ 1.933,15"
+    },
+    {
+        "ts": "2026-03-07T19:26:00+00:00",
+        "placa": "SMI4A03",
+        "renavam": "01452519258",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:25:11+00:00",
+        "placa": "SMI4A03",
+        "renavam": "01452519258",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:24:49+00:00",
+        "placa": "SMD8I73",
+        "renavam": "01418897210",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:24:35+00:00",
+        "placa": "SMD8I73",
+        "renavam": "01418897210",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:24:25+00:00",
+        "placa": "SMD8I73",
+        "renavam": "01418897210",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:23:16+00:00",
+        "placa": "PYN-2069",
+        "renavam": "01100517860",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:23:03+00:00",
+        "placa": "DKE9289",
+        "renavam": "00836428927",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:54+00:00",
+        "placa": "PYN-2069",
+        "renavam": "01100517860",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:45+00:00",
+        "placa": "PYN-2069",
+        "renavam": "01100517860",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:44+00:00",
+        "placa": "DKE9289",
+        "renavam": "836428927",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:37+00:00",
+        "placa": "PYN-2069",
+        "renavam": "01100517860",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:27+00:00",
+        "placa": "DKE9289",
+        "renavam": "00836428927",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:13+00:00",
+        "placa": "HSY 5988",
+        "renavam": "00942052960",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:22:01+00:00",
+        "placa": "HSY 5988",
+        "renavam": "00942052960",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:21:18+00:00",
+        "placa": "PVB2C31",
+        "renavam": "01026670818",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:20:07+00:00",
+        "placa": "HSY 5988",
+        "renavam": "00942052960",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:18:59+00:00",
+        "placa": "QAN3J97",
+        "renavam": "01174285114",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:18:14+00:00",
+        "placa": "QAC2756",
+        "renavam": "01114311615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:17:55+00:00",
+        "placa": "QAC2756",
+        "renavam": "0111431165",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:17:11+00:00",
+        "placa": "QAC2756",
+        "renavam": "01114311615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:16:59+00:00",
+        "placa": "QAC",
+        "renavam": "01114311615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:15:48+00:00",
+        "placa": "NRX0343",
+        "renavam": "00996524118",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:15:16+00:00",
+        "placa": "QAN3J97",
+        "renavam": "01174285114",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:14:03+00:00",
+        "placa": "HT4743",
+        "renavam": "156805600",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:11:23+00:00",
+        "placa": "NRK7570",
+        "renavam": "00333666860",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:09:02+00:00",
+        "placa": "SMB6J72",
+        "renavam": "01402564217",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:06:57+00:00",
+        "placa": "NSA3H33",
+        "renavam": "00567183050",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T19:06:29+00:00",
+        "placa": "NSA3H33",
+        "renavam": "0057183050",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:06:16+00:00",
+        "placa": "OOI0G05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:06:04+00:00",
+        "placa": "OOI0G05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:05:58+00:00",
+        "placa": "OOI0G05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:05:43+00:00",
+        "placa": "OOI0G05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:05:43+00:00",
+        "placa": "NSA3H33",
+        "renavam": "00567183050",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:05:19+00:00",
+        "placa": "NSA3H33",
+        "renavam": "00567183050",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:04:15+00:00",
+        "placa": "00IG05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:04:06+00:00",
+        "placa": "OOIG05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:03:38+00:00",
+        "placa": "HRA3796",
+        "renavam": "00130341045",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:03:13+00:00",
+        "placa": "SMB6J72",
+        "renavam": "0142564217",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T19:00:12+00:00",
+        "placa": "00IOGO5",
+        "renavam": "005997261962",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:58:09+00:00",
+        "placa": "00IOGO5",
+        "renavam": "005997261962",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:54:52+00:00",
+        "placa": "HQM0960",
+        "renavam": "00638187117",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:54:24+00:00",
+        "placa": "00IOG05",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:54:04+00:00",
+        "placa": "HQM0960",
+        "renavam": "00638187117",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:53:12+00:00",
+        "placa": "HTQ9B88",
+        "renavam": "265318335",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:52:49+00:00",
+        "placa": "HTQ9B88",
+        "renavam": "00265318335",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:51:33+00:00",
+        "placa": "HQM0960",
+        "renavam": "00638187117",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:50:57+00:00",
+        "placa": "HQM0960",
+        "renavam": "00638187117",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:50:29+00:00",
+        "placa": "00714944980",
+        "renavam": "HRN2659",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:50:15+00:00",
+        "placa": "OOI0GO5",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:49:50+00:00",
+        "placa": "HTP3D13",
+        "renavam": "00135325951",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:49:40+00:00",
+        "placa": "HRN2659",
+        "renavam": "00714944980",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:49:34+00:00",
+        "placa": "HTP3D13",
+        "renavam": "00173293050",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:49:15+00:00",
+        "placa": "OOI0GO5",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:48:52+00:00",
+        "placa": "OI0GO5",
+        "renavam": "005997261962",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:48:33+00:00",
+        "placa": "HRN2659",
+        "renavam": "00714944980",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:48:11+00:00",
+        "placa": "HRN2659",
+        "renavam": "00714944980",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:46:28+00:00",
+        "placa": "OBQ4F08",
+        "renavam": "00541821830",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:44:44+00:00",
+        "placa": "QAH5I92",
+        "renavam": "01133865647",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:44:39+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:44:36+00:00",
+        "placa": "QAH5I92",
+        "renavam": "01133865647",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:44:08+00:00",
+        "placa": "HRY6430",
+        "renavam": "00811637611",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:43:57+00:00",
+        "placa": "HRY6430",
+        "renavam": "00811637611",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:43:55+00:00",
+        "placa": "BWW4D02",
+        "renavam": "01179576435",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:43:50+00:00",
+        "placa": "HRY6430",
+        "renavam": "00811637611",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:43:13+00:00",
+        "placa": "DX0G23",
+        "renavam": "00808916521",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:43:09+00:00",
+        "placa": "DX0G23",
+        "renavam": "00808916521",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:40:23+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:40:17+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:40:04+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:40:00+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:39:37+00:00",
+        "placa": "CPR3330",
+        "renavam": "00715600052",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:39:26+00:00",
+        "placa": "OBQ4508",
+        "renavam": "00541821830",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:39:09+00:00",
+        "placa": "CPR3330",
+        "renavam": "00715600052",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:38:52+00:00",
+        "placa": "OBQ4508",
+        "renavam": "00541821830",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T18:35:37+00:00",
+        "placa": "QXE9E25",
+        "renavam": "01217324345",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:34:16+00:00",
+        "placa": "HRY6430",
+        "renavam": "00811637611",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:31:07+00:00",
+        "placa": "OOJ7E72",
+        "renavam": "01000154669",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:27:06+00:00",
+        "placa": "LBE4945",
+        "renavam": "00649448669",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:25:39+00:00",
+        "placa": "HMD0D42",
+        "renavam": "00307508757",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:25:31+00:00",
+        "placa": "NRR8496",
+        "renavam": "00474709159",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:24:16+00:00",
+        "placa": "NSA3F46",
+        "renavam": "00534792804",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:17:48+00:00",
+        "placa": "REY9A33",
+        "renavam": "01283225015",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T18:03:25+00:00",
+        "placa": "QAN6F49",
+        "renavam": "01177145070",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:45:45+00:00",
+        "placa": "OOO6824",
+        "renavam": "01033097990",
+        "resultado": "R$ 429,15"
+    },
+    {
+        "ts": "2026-03-07T17:44:14+00:00",
+        "placa": "OOO6824",
+        "renavam": "0103309790",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:43:07+00:00",
+        "placa": "OOO682⁴",
+        "renavam": "0103309790",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:42:49+00:00",
+        "placa": "QAQ4550",
+        "renavam": "01189090519",
+        "resultado": "R$ 561,32"
+    },
+    {
+        "ts": "2026-03-07T17:41:57+00:00",
+        "placa": "00T4690",
+        "renavam": "1084782298",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:40:45+00:00",
+        "placa": "QAN6F49",
+        "renavam": "01177145070",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:39:33+00:00",
+        "placa": "QAN6F49",
+        "renavam": "01177145070",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:38:35+00:00",
+        "placa": "QAN6F49",
+        "renavam": "01177145070",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:36:30+00:00",
+        "placa": "QAZ1C10",
+        "renavam": "01253536209",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:36:23+00:00",
+        "placa": "HTE8C93",
+        "renavam": "00136523803",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:35:23+00:00",
+        "placa": "HTE8C93",
+        "renavam": "00136523803",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:34:37+00:00",
+        "placa": "QAN4C61",
+        "renavam": "01175655802",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:34:04+00:00",
+        "placa": "CKV0696",
+        "renavam": "00671532448",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:33:50+00:00",
+        "placa": "PVV6E44",
+        "renavam": "01044850954",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:33:04+00:00",
+        "placa": "CKV0696",
+        "renavam": "00671532448",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:32:19+00:00",
+        "placa": "OOP6J02",
+        "renavam": "01048326982",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:30:57+00:00",
+        "placa": "OOP6J02",
+        "renavam": "01048326982",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:30:46+00:00",
+        "placa": "HSS1E67",
+        "renavam": "00902118480",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:30:02+00:00",
+        "placa": "PVV6E44",
+        "renavam": "01044850954",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:29:35+00:00",
+        "placa": "QAQ4550",
+        "renavam": "01189090519",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:29:35+00:00",
+        "placa": "OOP6J02",
+        "renavam": "01079183768",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:28:43+00:00",
+        "placa": "QAQ4550",
+        "renavam": "01189090519",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:28:10+00:00",
+        "placa": "HT4743",
+        "renavam": "156805600",
+        "resultado": "R$ 1.689,60"
+    },
+    {
+        "ts": "2026-03-07T17:27:42+00:00",
+        "placa": "FMC4F10",
+        "renavam": "01042183098",
+        "resultado": "R$ 1.689,60"
+    },
+    {
+        "ts": "2026-03-07T17:26:12+00:00",
+        "placa": "QAQ4550",
+        "renavam": "01189090519",
+        "resultado": "R$ 561,32"
+    },
+    {
+        "ts": "2026-03-07T17:23:41+00:00",
+        "placa": "FMC4F10",
+        "renavam": "0104218345472",
+        "resultado": "R$ 735,56"
+    },
+    {
+        "ts": "2026-03-07T17:22:53+00:00",
+        "placa": "HSS1E67",
+        "renavam": "00902118480",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:20:07+00:00",
+        "placa": "NRN6G77",
+        "renavam": "00329299972",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:19:57+00:00",
+        "placa": "HSS1E67",
+        "renavam": "00902118480",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:19:12+00:00",
+        "placa": "NRN6G77",
+        "renavam": "00329299972",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:18:33+00:00",
+        "placa": "NRN6G77",
+        "renavam": "00329299972",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:17:27+00:00",
+        "placa": "NRS8A61",
+        "renavam": "00471883220",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:17:12+00:00",
+        "placa": "EYM2H45",
+        "renavam": "00404179371",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:16:06+00:00",
+        "placa": "EYM2H45",
+        "renavam": "00321653408",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:15:57+00:00",
+        "placa": "NRS8A61",
+        "renavam": "00471883220",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:13:01+00:00",
+        "placa": "OOS6844",
+        "renavam": "01064152519",
+        "resultado": "R$ 1.344,83"
+    },
+    {
+        "ts": "2026-03-07T17:12:18+00:00",
+        "placa": "NRS8A61",
+        "renavam": "00471883220",
+        "resultado": "R$ 2.010,67"
+    },
+    {
+        "ts": "2026-03-07T17:06:36+00:00",
+        "placa": "HSS4253",
+        "renavam": "00912349492",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:04:28+00:00",
+        "placa": "PVV6E44",
+        "renavam": "01044850954",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T17:02:40+00:00",
+        "placa": "HSI4I02",
+        "renavam": "00899116710",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T17:02:25+00:00",
+        "placa": "OOS6844",
+        "renavam": "01064152519",
+        "resultado": "R$ 1.344,83"
+    },
+    {
+        "ts": "2026-03-07T16:57:46+00:00",
+        "placa": "FZT5E40",
+        "renavam": "1016297545",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T16:56:07+00:00",
+        "placa": "FZT5E40",
+        "renavam": "01016297545",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T16:54:40+00:00",
+        "placa": "FZT5E40",
+        "renavam": "01016297545",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T16:53:50+00:00",
+        "placa": "QAA9260",
+        "renavam": "01091940379",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T16:53:07+00:00",
+        "placa": "OOS6844",
+        "renavam": "01064152519",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T16:52:50+00:00",
+        "placa": "HSI4I02",
+        "renavam": "08419297186",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T16:47:23+00:00",
+        "placa": "RHF0I54",
+        "renavam": "01267237241",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T16:37:54+00:00",
+        "placa": "HSP5699",
+        "renavam": "885557190",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T16:35:36+00:00",
+        "placa": "HSP5699",
+        "renavam": "885557190",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T16:34:13+00:00",
+        "placa": "HSP5699",
+        "renavam": "885557190",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T16:21:43+00:00",
+        "placa": "HTU4895",
+        "renavam": "00268422494",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T16:00:47+00:00",
+        "placa": "NSD5A24",
+        "renavam": "00565723200",
+        "resultado": "R$ 798,13"
+    },
+    {
+        "ts": "2026-03-07T15:56:11+00:00",
+        "placa": "DVO3D59",
+        "renavam": "00990337987",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T15:49:18+00:00",
+        "placa": "QAQ3757",
+        "renavam": "1193867050",
+        "resultado": "R$ 1.980,02"
+    },
+    {
+        "ts": "2026-03-07T15:47:44+00:00",
+        "placa": "QAP1738",
+        "renavam": "01183177043",
+        "resultado": "R$ 1.980,02"
+    },
+    {
+        "ts": "2026-03-07T15:46:45+00:00",
+        "placa": "QAP738",
+        "renavam": "01183177043",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T15:28:46+00:00",
+        "placa": "HTW4886",
+        "renavam": "00664206883",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T15:27:12+00:00",
+        "placa": "SMH5G45",
+        "renavam": "01446213398",
+        "resultado": "R$ 6.051,17"
+    },
+    {
+        "ts": "2026-03-07T15:26:13+00:00",
+        "placa": "SME7C18",
+        "renavam": "01423881637",
+        "resultado": "R$ 517,82"
+    },
+    {
+        "ts": "2026-03-07T15:24:28+00:00",
+        "placa": "HSU0H72",
+        "renavam": "924733063",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T15:24:25+00:00",
+        "placa": "HTJ0742",
+        "renavam": "00155170937",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:23:51+00:00",
+        "placa": "AJB7H53",
+        "renavam": "00730088952",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:22:44+00:00",
+        "placa": "00924733063",
+        "renavam": "HSU0H72",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:22:39+00:00",
+        "placa": "HTJ0742",
+        "renavam": "00155170937",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:22:25+00:00",
+        "placa": "HTJ8F13",
+        "renavam": "00167082337",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:21:55+00:00",
+        "placa": "HTJ8F13",
+        "renavam": "00167082337",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:21:44+00:00",
+        "placa": "HTJ0742",
+        "renavam": "00155170937",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:21:43+00:00",
+        "placa": "924733063",
+        "renavam": "HSU0H72",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:21:09+00:00",
+        "placa": "SMH5G45",
+        "renavam": "01446213398",
+        "resultado": "R$ 6.051,17"
+    },
+    {
+        "ts": "2026-03-07T15:20:36+00:00",
+        "placa": "NRS1G29",
+        "renavam": "00465356036",
+        "resultado": "R$ 643,30"
+    },
+    {
+        "ts": "2026-03-07T15:20:00+00:00",
+        "placa": "00924733063",
+        "renavam": "HSU0H72",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T15:19:33+00:00",
+        "placa": "NSB7082",
+        "renavam": "00566605457",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T15:19:29+00:00",
+        "placa": "QAM2834",
+        "renavam": "01164716457",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:18:43+00:00",
+        "placa": "QAM2834",
+        "renavam": "01164716457",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:18:06+00:00",
+        "placa": "QAM2834",
+        "renavam": "01164716457",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T15:17:32+00:00",
+        "placa": "00924733063",
+        "renavam": "Hsu0h72",
+        "resultado": "R$ 2.328,13"
+    },
+    {
+        "ts": "2026-03-07T15:17:16+00:00",
+        "placa": "LYB6H97",
+        "renavam": "00657078271",
+        "resultado": "R$ 2.328,13"
+    },
+    {
+        "ts": "2026-03-07T15:15:36+00:00",
+        "placa": "NRV4108",
+        "renavam": "504101390",
+        "resultado": "R$ 2.328,13"
+    },
+    {
+        "ts": "2026-03-07T15:11:59+00:00",
+        "placa": "SMH5E70",
+        "renavam": "01446016169",
+        "resultado": "R$ 2.328,13"
+    },
+    {
+        "ts": "2026-03-07T15:06:36+00:00",
+        "placa": "QAS3952",
+        "renavam": "01208030300",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T15:04:35+00:00",
+        "placa": "AWA1I07",
+        "renavam": "00966747240",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T15:03:38+00:00",
+        "placa": "AWA1I07",
+        "renavam": "00966747240",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:58:10+00:00",
+        "placa": "HR",
+        "renavam": "00746117833",
+        "resultado": "R$ 1.496,16"
+    },
+    {
+        "ts": "2026-03-07T14:54:10+00:00",
+        "placa": "QQM8F17",
+        "renavam": "01187754843",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:53:03+00:00",
+        "placa": "QQM8F17",
+        "renavam": "01187754843",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:52:12+00:00",
+        "placa": "QQM8F17",
+        "renavam": "01187754843",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:37:50+00:00",
+        "placa": "NRS9407",
+        "renavam": "00476129958",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T14:34:02+00:00",
+        "placa": "JZJ8621",
+        "renavam": "00774409606",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T14:30:18+00:00",
+        "placa": "OOK2171",
+        "renavam": "01081448293",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T14:29:12+00:00",
+        "placa": "HTI7G02",
+        "renavam": "00985082240",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T14:24:07+00:00",
+        "placa": "NRS8079",
+        "renavam": "00472003135",
+        "resultado": "R$ 1.176,42"
+    },
+    {
+        "ts": "2026-03-07T14:23:49+00:00",
+        "placa": "ILV5H90",
+        "renavam": "00828617333",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T14:23:16+00:00",
+        "placa": "OOI8J10",
+        "renavam": "01008332558",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T14:23:10+00:00",
+        "placa": "ILV5H90",
+        "renavam": "00828617333",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:23:00+00:00",
+        "placa": "NRS8079",
+        "renavam": "00472003135",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:22:27+00:00",
+        "placa": "FKF3927",
+        "renavam": "00544156463",
+        "resultado": "R$ 1.071,51"
+    },
+    {
+        "ts": "2026-03-07T14:22:03+00:00",
+        "placa": "OOI8J10",
+        "renavam": "01008332558",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:20:07+00:00",
+        "placa": "FKF3927",
+        "renavam": "00544156463",
+        "resultado": "R$ 1.071,51"
+    },
+    {
+        "ts": "2026-03-07T14:19:33+00:00",
+        "placa": "OOI8J10",
+        "renavam": "01008332558",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T14:14:28+00:00",
+        "placa": "SMH5G45",
+        "renavam": "01446213398",
+        "resultado": "R$ 6.051,17"
+    },
+    {
+        "ts": "2026-03-07T14:13:24+00:00",
+        "placa": "HSC8302",
+        "renavam": "008222041553",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T14:07:44+00:00",
+        "placa": "NRK8300",
+        "renavam": "00335614981",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T14:06:44+00:00",
+        "placa": "OOI7C45",
+        "renavam": "01003072353",
+        "resultado": "R$ 655,82"
+    },
+    {
+        "ts": "2026-03-07T14:04:11+00:00",
+        "placa": "HSC8302",
+        "renavam": "00822041553",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T14:03:17+00:00",
+        "placa": "RBT5A99",
+        "renavam": "01286431945",
+        "resultado": "R$ 1.088,17"
+    },
+    {
+        "ts": "2026-03-07T14:03:00+00:00",
+        "placa": "HSC8302",
+        "renavam": "00822041553",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:02:31+00:00",
+        "placa": "GHU0A09",
+        "renavam": "00770244220",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T14:02:23+00:00",
+        "placa": "HSC8302",
+        "renavam": "00822041553",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T14:01:42+00:00",
+        "placa": "PUS6A59",
+        "renavam": "01019306618",
+        "resultado": "R$ 4.250,42"
+    },
+    {
+        "ts": "2026-03-07T14:01:36+00:00",
+        "placa": "HSC8302",
+        "renavam": "0822041553",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:58:52+00:00",
+        "placa": "HSC8302",
+        "renavam": "00822041553",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:55:58+00:00",
+        "placa": "QAI2649",
+        "renavam": "01135317965",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:55:24+00:00",
+        "placa": "QAI2649",
+        "renavam": "01135317965",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:50:26+00:00",
+        "placa": "QAX3E02",
+        "renavam": "01240291784",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:49:43+00:00",
+        "placa": "HTT6175",
+        "renavam": "00267820810",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:47:31+00:00",
+        "placa": "QAX3E02",
+        "renavam": "01240291784",
+        "resultado": "R$ 375,85"
+    },
+    {
+        "ts": "2026-03-07T13:46:40+00:00",
+        "placa": "HSO6421",
+        "renavam": "00881313173",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:46:19+00:00",
+        "placa": "QAQ3757",
+        "renavam": "01193867050",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T13:45:58+00:00",
+        "placa": "QAQ3757",
+        "renavam": "0011",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:38:01+00:00",
+        "placa": "QAI2649",
+        "renavam": "01135317965",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T13:31:30+00:00",
+        "placa": "NRK8300",
+        "renavam": "00335614981",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T13:29:20+00:00",
+        "placa": "OOG2572",
+        "renavam": "00586416358",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:27:52+00:00",
+        "placa": "HRP2158",
+        "renavam": "93137680115",
+        "resultado": "R$ 468,95"
+    },
+    {
+        "ts": "2026-03-07T13:27:33+00:00",
+        "placa": "QAG0824",
+        "renavam": "01118117058",
+        "resultado": "R$ 468,95"
+    },
+    {
+        "ts": "2026-03-07T13:26:52+00:00",
+        "placa": "QAG0824",
+        "renavam": "01118117058",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:26:41+00:00",
+        "placa": "HRP2158",
+        "renavam": "93137680115",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:24:05+00:00",
+        "placa": "HRW",
+        "renavam": "2219",
+        "resultado": "R$ 2.808,54"
+    },
+    {
+        "ts": "2026-03-07T13:20:55+00:00",
+        "placa": "HQS2874",
+        "renavam": "609028090",
+        "resultado": "R$ 2.808,54"
+    },
+    {
+        "ts": "2026-03-07T13:19:10+00:00",
+        "placa": "FMF9084",
+        "renavam": "00588350451",
+        "resultado": "R$ 2.808,54"
+    },
+    {
+        "ts": "2026-03-07T13:18:51+00:00",
+        "placa": "QAI2649",
+        "renavam": "01135317965",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:17:22+00:00",
+        "placa": "QAQ3757",
+        "renavam": "1193867050",
+        "resultado": "R$ 498,00"
+    },
+    {
+        "ts": "2026-03-07T13:15:11+00:00",
+        "placa": "00P1G22",
+        "renavam": "010572844880",
+        "resultado": "R$ 498,00"
+    },
+    {
+        "ts": "2026-03-07T13:13:09+00:00",
+        "placa": "00P1G22",
+        "renavam": "01057284480",
+        "resultado": "R$ 498,00"
+    },
+    {
+        "ts": "2026-03-07T13:12:27+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "R$ 498,00"
+    },
+    {
+        "ts": "2026-03-07T13:11:44+00:00",
+        "placa": "FCB9241",
+        "renavam": "00528361791",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:11:35+00:00",
+        "placa": "COOP1G22",
+        "renavam": "010572844880",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:11:12+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:10:52+00:00",
+        "placa": "OOK2171",
+        "renavam": "01081448293",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:10:51+00:00",
+        "placa": "00Q8B75",
+        "renavam": "01049056148",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:10:19+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:10:02+00:00",
+        "placa": "FCB9241",
+        "renavam": "00528361791",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:09:56+00:00",
+        "placa": "00Q8B75",
+        "renavam": "01049056148",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:09:54+00:00",
+        "placa": "OOK2171",
+        "renavam": "01081448293",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:09:27+00:00",
+        "placa": "HSS1687",
+        "renavam": "896997952",
+        "resultado": "R$ 498,00"
+    },
+    {
+        "ts": "2026-03-07T13:09:12+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:09:11+00:00",
+        "placa": "NLA0451",
+        "renavam": "00120178605",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:08:51+00:00",
+        "placa": "FCB9241",
+        "renavam": "00528361791",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:08:21+00:00",
+        "placa": "NLA0451",
+        "renavam": "00120178605",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:08:09+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:07:38+00:00",
+        "placa": "OOJ2B53",
+        "renavam": "01038564953",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:07:19+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:07:02+00:00",
+        "placa": "OOK2171",
+        "renavam": "01081448293",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:06:33+00:00",
+        "placa": "OOJ2B53",
+        "renavam": "01038564953",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:06:21+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:06:05+00:00",
+        "placa": "OOK2171",
+        "renavam": "01081448293",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:05:41+00:00",
+        "placa": "NRY2B64",
+        "renavam": "00498846709",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:05:36+00:00",
+        "placa": "OOJ2B53",
+        "renavam": "01038564953",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:05:27+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:04:46+00:00",
+        "placa": "NRG0295",
+        "renavam": "00226357422",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:04:39+00:00",
+        "placa": "NRY2B64",
+        "renavam": "00498846709",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T13:04:20+00:00",
+        "placa": "QAG8B52",
+        "renavam": "01122657703",
+        "resultado": "R$ 1.577,43"
+    },
+    {
+        "ts": "2026-03-07T13:03:37+00:00",
+        "placa": "QAC4102",
+        "renavam": "1085658152",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:02:40+00:00",
+        "placa": "RWI4F21",
+        "renavam": "01353527066",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T13:02:08+00:00",
+        "placa": "QAG8B52",
+        "renavam": "01122657703",
+        "resultado": "R$ 972,19"
+    },
+    {
+        "ts": "2026-03-07T12:57:25+00:00",
+        "placa": "HTG8A11",
+        "renavam": "254472441500",
+        "resultado": "R$ 972,19"
+    },
+    {
+        "ts": "2026-03-07T12:52:46+00:00",
+        "placa": "DRI8G92",
+        "renavam": "00861512618",
+        "resultado": "R$ 972,19"
+    },
+    {
+        "ts": "2026-03-07T12:51:35+00:00",
+        "placa": "HSM8D33",
+        "renavam": "00862163706",
+        "resultado": "R$ 1.612,67"
+    },
+    {
+        "ts": "2026-03-07T12:50:54+00:00",
+        "placa": "ERI6A82",
+        "renavam": "00324575505",
+        "resultado": "R$ 1.227,01"
+    },
+    {
+        "ts": "2026-03-07T12:43:50+00:00",
+        "placa": "HSM8D33",
+        "renavam": "00862163706",
+        "resultado": "R$ 1.612,67"
+    },
+    {
+        "ts": "2026-03-07T12:41:54+00:00",
+        "placa": "HSM8D33",
+        "renavam": "00862163706",
+        "resultado": "R$ 1.612,67"
+    },
+    {
+        "ts": "2026-03-07T12:39:13+00:00",
+        "placa": "SLW4H51",
+        "renavam": "01367841493",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T12:38:24+00:00",
+        "placa": "MUG8C75",
+        "renavam": "00207168490",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T12:33:06+00:00",
+        "placa": "HSS1687",
+        "renavam": "896997952",
+        "resultado": "R$ 540,33"
+    },
+    {
+        "ts": "2026-03-07T12:32:24+00:00",
+        "placa": "RWG4F53",
+        "renavam": "01344447896",
+        "resultado": "R$ 540,33"
+    },
+    {
+        "ts": "2026-03-07T12:30:54+00:00",
+        "placa": "HTE7F33",
+        "renavam": "00133960536",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T12:30:01+00:00",
+        "placa": "HSS1687",
+        "renavam": "896997952",
+        "resultado": "R$ 910,15"
+    },
+    {
+        "ts": "2026-03-07T12:26:00+00:00",
+        "placa": "ETT0483",
+        "renavam": "00366294865",
+        "resultado": "R$ 910,15"
+    },
+    {
+        "ts": "2026-03-07T12:25:16+00:00",
+        "placa": "ETT0483",
+        "renavam": "00366294865",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T12:17:19+00:00",
+        "placa": "HTE5B98",
+        "renavam": "00120003635",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T12:12:47+00:00",
+        "placa": "QAZ8G18",
+        "renavam": "01264435999",
+        "resultado": "R$ 1.031,89"
+    },
+    {
+        "ts": "2026-03-07T12:12:38+00:00",
+        "placa": "OBT2J79",
+        "renavam": "00377007838",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T12:12:15+00:00",
+        "placa": "HRF1671",
+        "renavam": "00650742818",
+        "resultado": "R$ 3.408,04"
+    },
+    {
+        "ts": "2026-03-07T12:10:52+00:00",
+        "placa": "MZQ5357",
+        "renavam": "00720340667",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T12:10:34+00:00",
+        "placa": "QAZ8G18",
+        "renavam": "01264435999",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T12:10:02+00:00",
+        "placa": "HTD7G22",
+        "renavam": "00116543590",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T12:10:01+00:00",
+        "placa": "HRF1671",
+        "renavam": "00650742818",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T12:09:48+00:00",
+        "placa": "MZQ5357",
+        "renavam": "00720340667",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T12:08:23+00:00",
+        "placa": "MZQ5357",
+        "renavam": "00720340667",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T12:07:51+00:00",
+        "placa": "MZQ5357",
+        "renavam": "00720340667",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T12:04:06+00:00",
+        "placa": "MZQ5357",
+        "renavam": "00720340667",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T12:01:14+00:00",
+        "placa": "LLW9I33",
+        "renavam": "00556745388",
+        "resultado": "R$ 1.166,20"
+    },
+    {
+        "ts": "2026-03-07T11:58:13+00:00",
+        "placa": "ERI6A82",
+        "renavam": "00324575505",
+        "resultado": "R$ 1.564,19"
+    },
+    {
+        "ts": "2026-03-07T11:56:24+00:00",
+        "placa": "AOC5535",
+        "renavam": "00896917827",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T11:53:38+00:00",
+        "placa": "NRH6F82",
+        "renavam": "405542739",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:53:12+00:00",
+        "placa": "HRU6863",
+        "renavam": "00750608358",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:52:23+00:00",
+        "placa": "HRX4B23",
+        "renavam": "00742270424",
+        "resultado": "R$ 448,73"
+    },
+    {
+        "ts": "2026-03-07T11:51:41+00:00",
+        "placa": "QAH9583",
+        "renavam": "01134390049",
+        "resultado": "R$ 1.138,36"
+    },
+    {
+        "ts": "2026-03-07T11:49:46+00:00",
+        "placa": "HRX4B23",
+        "renavam": "00742270424",
+        "resultado": "R$ 448,73"
+    },
+    {
+        "ts": "2026-03-07T11:48:37+00:00",
+        "placa": "QAH9583",
+        "renavam": "1134390049",
+        "resultado": "R$ 779,40"
+    },
+    {
+        "ts": "2026-03-07T11:48:10+00:00",
+        "placa": "QAK1A85",
+        "renavam": "00114648943",
+        "resultado": "R$ 779,40"
+    },
+    {
+        "ts": "2026-03-07T11:47:16+00:00",
+        "placa": "QAK1A85",
+        "renavam": "00114648943",
+        "resultado": "R$ 779,40"
+    },
+    {
+        "ts": "2026-03-07T11:44:20+00:00",
+        "placa": "RWH5B69",
+        "renavam": "01347297798",
+        "resultado": "R$ 779,40"
+    },
+    {
+        "ts": "2026-03-07T11:42:53+00:00",
+        "placa": "HTA1961",
+        "renavam": "00928583449",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:37:50+00:00",
+        "placa": "FUM7A60",
+        "renavam": "01010769917",
+        "resultado": "R$ 1.802,89"
+    },
+    {
+        "ts": "2026-03-07T11:34:38+00:00",
+        "placa": "NRG7H62",
+        "renavam": "00267688164",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:34:07+00:00",
+        "placa": "FNX0C31",
+        "renavam": "01167380417",
+        "resultado": "R$ 1.731,87"
+    },
+    {
+        "ts": "2026-03-07T11:32:15+00:00",
+        "placa": "NRG7H62",
+        "renavam": "00267688164",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:29:30+00:00",
+        "placa": "NRG7H62",
+        "renavam": "00553374710",
+        "resultado": "R$ 1.288,91"
+    },
+    {
+        "ts": "2026-03-07T11:29:04+00:00",
+        "placa": "OON7E56",
+        "renavam": "01025408850",
+        "resultado": "R$ 1.288,91"
+    },
+    {
+        "ts": "2026-03-07T11:26:20+00:00",
+        "placa": "OON7E56",
+        "renavam": "01025408850",
+        "resultado": "R$ 1.288,91"
+    },
+    {
+        "ts": "2026-03-07T11:24:28+00:00",
+        "placa": "QAQ4311",
+        "renavam": "00959039880",
+        "resultado": "R$ 1.531,15"
+    },
+    {
+        "ts": "2026-03-07T11:20:53+00:00",
+        "placa": "OOH7H44",
+        "renavam": "00995694567",
+        "resultado": "R$ 1.531,15"
+    },
+    {
+        "ts": "2026-03-07T11:20:19+00:00",
+        "placa": "HSJ8571",
+        "renavam": "00910864845",
+        "resultado": "R$ 1.819,06"
+    },
+    {
+        "ts": "2026-03-07T11:19:47+00:00",
+        "placa": "OOH7H44",
+        "renavam": "00995694567",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:19:43+00:00",
+        "placa": "QAO6D01",
+        "renavam": "01185958522",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:19:24+00:00",
+        "placa": "HSJ8571",
+        "renavam": "00910864845",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:18:37+00:00",
+        "placa": "OOO7F32",
+        "renavam": "01049102867",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:18:35+00:00",
+        "placa": "QAO6D01",
+        "renavam": "01185958522",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:18:30+00:00",
+        "placa": "HSJ8571",
+        "renavam": "00910864845",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:17:36+00:00",
+        "placa": "OOO7F32",
+        "renavam": "01049102867",
+        "resultado": "R$ 389,33"
+    },
+    {
+        "ts": "2026-03-07T11:15:43+00:00",
+        "placa": "OOO7F32",
+        "renavam": "01049102867",
+        "resultado": "R$ 389,33"
+    },
+    {
+        "ts": "2026-03-07T11:15:05+00:00",
+        "placa": "AO6D01",
+        "renavam": "01185958522",
+        "resultado": "R$ 389,33"
+    },
+    {
+        "ts": "2026-03-07T11:15:05+00:00",
+        "placa": "OOO7F32",
+        "renavam": "01049102867",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T11:14:14+00:00",
+        "placa": "REY5B91",
+        "renavam": "01280636863",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:13:35+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "R$ 1.089,74"
+    },
+    {
+        "ts": "2026-03-07T11:12:15+00:00",
+        "placa": "NRU7A41",
+        "renavam": "00482846615",
+        "resultado": "R$ 1.089,74"
+    },
+    {
+        "ts": "2026-03-07T11:11:10+00:00",
+        "placa": "QAO6D01",
+        "renavam": "01185958522",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:09:53+00:00",
+        "placa": "OON1909",
+        "renavam": "00598754423",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:06:49+00:00",
+        "placa": "HTE4J11",
+        "renavam": "00117269913",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T11:02:56+00:00",
+        "placa": "HSJ8571",
+        "renavam": "00910864845",
+        "resultado": "R$ 1.819,06"
+    },
+    {
+        "ts": "2026-03-07T11:02:16+00:00",
+        "placa": "HSJ8571",
+        "renavam": "00910864845",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T10:58:53+00:00",
+        "placa": "HTM0J82",
+        "renavam": "00153213086",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T10:57:24+00:00",
+        "placa": "SLZ9D50",
+        "renavam": "01392183267",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:56:42+00:00",
+        "placa": "NLH7E31",
+        "renavam": "00123732522",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:54:21+00:00",
+        "placa": "NSB8123",
+        "renavam": "00539217654",
+        "resultado": "R$ 1.336,99"
+    },
+    {
+        "ts": "2026-03-07T10:50:22+00:00",
+        "placa": "GBM7C52",
+        "renavam": "01144919182",
+        "resultado": "R$ 4.204,79"
+    },
+    {
+        "ts": "2026-03-07T10:48:24+00:00",
+        "placa": "SMA4C66",
+        "renavam": "01385365134",
+        "resultado": "R$ 875,95"
+    },
+    {
+        "ts": "2026-03-07T10:47:35+00:00",
+        "placa": "HTT8A02",
+        "renavam": "00190329939",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:46:46+00:00",
+        "placa": "NSB9G22",
+        "renavam": "00580590488",
+        "resultado": "R$ 2.307,22"
+    },
+    {
+        "ts": "2026-03-07T10:45:09+00:00",
+        "placa": "HTQ5J86",
+        "renavam": "00195514289",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:42:38+00:00",
+        "placa": "DUR6H61",
+        "renavam": "00920704476",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:41:15+00:00",
+        "placa": "RWD1D59",
+        "renavam": "01317448593",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T10:39:56+00:00",
+        "placa": "HTJ3018",
+        "renavam": "00152669272",
+        "resultado": "R$ 1.455,87"
+    },
+    {
+        "ts": "2026-03-07T10:15:13+00:00",
+        "placa": "OOU0C21",
+        "renavam": "01066755571",
+        "resultado": "R$ 1.446,87"
+    },
+    {
+        "ts": "2026-03-07T10:12:46+00:00",
+        "placa": "QAT9E72",
+        "renavam": "01258388682",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:10:20+00:00",
+        "placa": "HSI8975",
+        "renavam": "00933314779",
+        "resultado": "R$ 688,51"
+    },
+    {
+        "ts": "2026-03-07T10:06:24+00:00",
+        "placa": "QAD1E12",
+        "renavam": "01061511429",
+        "resultado": "R$ 3.349,19"
+    },
+    {
+        "ts": "2026-03-07T10:05:27+00:00",
+        "placa": "QAD1E12",
+        "renavam": "01061511429",
+        "resultado": "R$ 3.349,19"
+    },
+    {
+        "ts": "2026-03-07T10:04:48+00:00",
+        "placa": "QAW3A13",
+        "renavam": "01232865173",
+        "resultado": "R$ 1.044,39"
+    },
+    {
+        "ts": "2026-03-07T10:03:40+00:00",
+        "placa": "QAT9E72",
+        "renavam": "01258388682",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T10:01:28+00:00",
+        "placa": "QAW3A13",
+        "renavam": "01232865173",
+        "resultado": "R$ 1.044,39"
+    },
+    {
+        "ts": "2026-03-07T09:56:18+00:00",
+        "placa": "MFJ1D22",
+        "renavam": "00851838081",
+        "resultado": "R$ 1.398,80"
+    },
+    {
+        "ts": "2026-03-07T09:53:07+00:00",
+        "placa": "MFJ1D22",
+        "renavam": "00851838081",
+        "resultado": "R$ 1.398,80"
+    },
+    {
+        "ts": "2026-03-07T09:52:44+00:00",
+        "placa": "KUN9H21",
+        "renavam": "00885227611",
+        "resultado": "R$ 439,62"
+    },
+    {
+        "ts": "2026-03-07T09:50:13+00:00",
+        "placa": "KUN9H21",
+        "renavam": "00885227611",
+        "resultado": "R$ 439,62"
+    },
+    {
+        "ts": "2026-03-07T09:46:25+00:00",
+        "placa": "RWF2J74",
+        "renavam": "01332867569",
+        "resultado": "R$ 449,61"
+    },
+    {
+        "ts": "2026-03-07T09:42:46+00:00",
+        "placa": "PUT8712",
+        "renavam": "01020645196",
+        "resultado": "R$ 3.318,72"
+    },
+    {
+        "ts": "2026-03-07T09:40:55+00:00",
+        "placa": "REW1E23",
+        "renavam": "01266948403",
+        "resultado": "R$ 2.371,90"
+    },
+    {
+        "ts": "2026-03-07T09:38:05+00:00",
+        "placa": "REW1E23",
+        "renavam": "01020645196",
+        "resultado": "R$ 688,51"
+    },
+    {
+        "ts": "2026-03-07T09:37:18+00:00",
+        "placa": "HSI8975",
+        "renavam": "00933314779",
+        "resultado": "R$ 688,51"
+    },
+    {
+        "ts": "2026-03-07T09:36:32+00:00",
+        "placa": "SLW3J88",
+        "renavam": "01367379129",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T09:35:47+00:00",
+        "placa": "ACY4C42",
+        "renavam": "00489440843",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-07T09:34:15+00:00",
+        "placa": "MSK9H71",
+        "renavam": "00991677188",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T09:30:12+00:00",
+        "placa": "AZT6H02",
+        "renavam": "01056363069",
+        "resultado": "R$ 3.075,48"
+    },
+    {
+        "ts": "2026-03-07T04:11:25+00:00",
+        "placa": "MSK9H71",
+        "renavam": "00991677188",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T00:46:46+00:00",
+        "placa": "HRN1572",
+        "renavam": "00712400567",
+        "resultado": "R$ 344,61"
+    },
+    {
+        "ts": "2026-03-07T00:45:37+00:00",
+        "placa": "HRN1572",
+        "renavam": "00712400567",
+        "resultado": "R$ 344,61"
+    },
+    {
+        "ts": "2026-03-07T00:44:12+00:00",
+        "placa": "HRN1572",
+        "renavam": "00712400567",
+        "resultado": "R$ 344,61"
+    },
+    {
+        "ts": "2026-03-07T00:43:43+00:00",
+        "placa": "HSE4J71",
+        "renavam": "00860237885",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T00:42:39+00:00",
+        "placa": "HRF6467",
+        "renavam": "646519069",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T00:40:16+00:00",
+        "placa": "HRF6467",
+        "renavam": "646519069",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T00:38:51+00:00",
+        "placa": "HSN7252",
+        "renavam": "00863657605",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T00:38:13+00:00",
+        "placa": "PVX4921",
+        "renavam": "01046746984",
+        "resultado": "R$ 1.215,14"
+    },
+    {
+        "ts": "2026-03-07T00:37:13+00:00",
+        "placa": "AXN6J82",
+        "renavam": "9bg148ep0ec406186",
+        "resultado": "R$ 2.687,86"
+    },
+    {
+        "ts": "2026-03-07T00:36:01+00:00",
+        "placa": "OVX4921",
+        "renavam": "01013895924785",
+        "resultado": "R$ 2.687,86"
+    },
+    {
+        "ts": "2026-03-07T00:32:31+00:00",
+        "placa": "RMS5G87",
+        "renavam": "01259279879",
+        "resultado": "R$ 2.687,86"
+    },
+    {
+        "ts": "2026-03-07T00:25:51+00:00",
+        "placa": "HSP6616",
+        "renavam": "00991677188",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T00:25:12+00:00",
+        "placa": "QAM5I38",
+        "renavam": "01281278910",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T00:20:17+00:00",
+        "placa": "MSK9H71",
+        "renavam": "00991677188",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T00:16:51+00:00",
+        "placa": "MSK9H71",
+        "renavam": "00991677188",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-07T00:09:32+00:00",
+        "placa": "CLU6425",
+        "renavam": "00377445371",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T00:07:09+00:00",
+        "placa": "HSD6780",
+        "renavam": "00835512690",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-07T00:06:57+00:00",
+        "placa": "CLU6425",
+        "renavam": "00377445371",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T00:05:36+00:00",
+        "placa": "NRN1358",
+        "renavam": "01096066073",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-07T00:04:32+00:00",
+        "placa": "HOJ9B97",
+        "renavam": "00299816729",
+        "resultado": "R$ 1.156,89"
+    },
+    {
+        "ts": "2026-03-07T00:03:51+00:00",
+        "placa": "NRN1358",
+        "renavam": "01096066073",
+        "resultado": "R$ 692,89"
+    },
+    {
+        "ts": "2026-03-07T00:00:00+00:00",
+        "placa": "KAF8865",
+        "renavam": "00919208126",
+        "resultado": "R$ 692,89"
+    },
+    {
+        "ts": "2026-03-06T23:58:55+00:00",
+        "placa": "OOJ1J12",
+        "renavam": "01025663109",
+        "resultado": "R$ 692,89"
+    },
+    {
+        "ts": "2026-03-06T23:57:09+00:00",
+        "placa": "HTL9365",
+        "renavam": "00123907861",
+        "resultado": "R$ 1.489,13"
+    },
+    {
+        "ts": "2026-03-06T23:55:22+00:00",
+        "placa": "OOI2101",
+        "renavam": "01055138622",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T23:53:53+00:00",
+        "placa": "NSC0C10",
+        "renavam": "00502055375",
+        "resultado": "R$ 1.460,48"
+    },
+    {
+        "ts": "2026-03-06T23:52:58+00:00",
+        "placa": "ACY4C42",
+        "renavam": "00489440843",
+        "resultado": "R$ 1.843,32"
+    },
+    {
+        "ts": "2026-03-06T23:52:43+00:00",
+        "placa": "QAO7195",
+        "renavam": "01186686062",
+        "resultado": "R$ 486,36"
+    },
+    {
+        "ts": "2026-03-06T23:45:21+00:00",
+        "placa": "HTV 7076",
+        "renavam": "00396480713",
+        "resultado": "R$ 688,51"
+    },
+    {
+        "ts": "2026-03-06T23:42:33+00:00",
+        "placa": "HQJ1551",
+        "renavam": "397679530",
+        "resultado": "R$ 688,51"
+    },
+    {
+        "ts": "2026-03-06T23:33:46+00:00",
+        "placa": "HSI8975",
+        "renavam": "00933314779",
+        "resultado": "R$ 688,51"
+    },
+    {
+        "ts": "2026-03-06T23:32:17+00:00",
+        "placa": "HSC7740",
+        "renavam": "00820732435",
+        "resultado": "R$ 13.205,72"
+    },
+    {
+        "ts": "2026-03-06T23:28:50+00:00",
+        "placa": "REY5F44",
+        "renavam": "01280903705",
+        "resultado": "R$ 446,26"
+    },
+    {
+        "ts": "2026-03-06T23:27:00+00:00",
+        "placa": "SLY9G69",
+        "renavam": "01384421146",
+        "resultado": "R$ 446,26"
+    },
+    {
+        "ts": "2026-03-06T23:22:32+00:00",
+        "placa": "NGX2A02",
+        "renavam": "00923281606",
+        "resultado": "R$ 1.189,54"
+    },
+    {
+        "ts": "2026-03-06T23:20:53+00:00",
+        "placa": "OOQ7180",
+        "renavam": "01046628728",
+        "resultado": "R$ 713,30"
+    },
+    {
+        "ts": "2026-03-06T23:17:26+00:00",
+        "placa": "REY2C45",
+        "renavam": "01278484938",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T23:13:01+00:00",
+        "placa": "HTU3J29",
+        "renavam": "00233287957",
+        "resultado": "R$ 700,37"
+    },
+    {
+        "ts": "2026-03-06T23:12:46+00:00",
+        "placa": "HTV 7076",
+        "renavam": "00396480713",
+        "resultado": "R$ 1.319,41"
+    },
+    {
+        "ts": "2026-03-06T23:11:10+00:00",
+        "placa": "OPQ2457",
+        "renavam": "005.297.221-94",
+        "resultado": "R$ 1.319,41"
+    },
+    {
+        "ts": "2026-03-06T23:05:28+00:00",
+        "placa": "FMG7630",
+        "renavam": "00582599350",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T23:02:52+00:00",
+        "placa": "CXI2989",
+        "renavam": "0073435580",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T23:02:22+00:00",
+        "placa": "CXI2989",
+        "renavam": "00734355580",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T23:01:59+00:00",
+        "placa": "SMA7I83",
+        "renavam": "01396340588",
+        "resultado": "R$ 1.514,38"
+    },
+    {
+        "ts": "2026-03-06T23:01:05+00:00",
+        "placa": "OOQ6931",
+        "renavam": "0011244218/20",
+        "resultado": "R$ 2.093,26"
+    },
+    {
+        "ts": "2026-03-06T23:01:05+00:00",
+        "placa": "CXI 2989",
+        "renavam": "0073435580",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T22:56:48+00:00",
+        "placa": "RVP6C09",
+        "renavam": "01328332931",
+        "resultado": "R$ 2.093,26"
+    },
+    {
+        "ts": "2026-03-06T22:55:36+00:00",
+        "placa": "RVP6C09",
+        "renavam": "01328332931",
+        "resultado": "R$ 2.093,26"
+    },
+    {
+        "ts": "2026-03-06T22:53:36+00:00",
+        "placa": "RVP6C09",
+        "renavam": "01328332931",
+        "resultado": "R$ 2.093,26"
+    },
+    {
+        "ts": "2026-03-06T22:36:20+00:00",
+        "placa": "QAH5B92",
+        "renavam": "01135814608",
+        "resultado": "R$ 1.681,48"
+    },
+    {
+        "ts": "2026-03-06T22:34:41+00:00",
+        "placa": "REY9A33",
+        "renavam": "01283225015",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T22:23:22+00:00",
+        "placa": "HTU4C63",
+        "renavam": "00252901126",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T22:21:09+00:00",
+        "placa": "REY2C45",
+        "renavam": "01278484938",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T22:20:10+00:00",
+        "placa": "SMI 2A00",
+        "renavam": "01450909580",
+        "resultado": "R$ 778,31"
+    },
+    {
+        "ts": "2026-03-06T22:19:37+00:00",
+        "placa": "NSC6888",
+        "renavam": "00584887060",
+        "resultado": "R$ 778,31"
+    },
+    {
+        "ts": "2026-03-06T22:18:01+00:00",
+        "placa": "QAJ7954",
+        "renavam": "01155239137",
+        "resultado": "R$ 832,13"
+    },
+    {
+        "ts": "2026-03-06T22:17:43+00:00",
+        "placa": "REY2C45",
+        "renavam": "01199878623",
+        "resultado": "R$ 832,13"
+    },
+    {
+        "ts": "2026-03-06T22:17:34+00:00",
+        "placa": "QAJ7954",
+        "renavam": "01155239137",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T22:17:10+00:00",
+        "placa": "NRL7895",
+        "renavam": "00468019790",
+        "resultado": "R$ 643,30"
+    },
+    {
+        "ts": "2026-03-06T22:16:48+00:00",
+        "placa": "SJD1F77",
+        "renavam": "01368269912",
+        "resultado": "R$ 1.382,09"
+    },
+    {
+        "ts": "2026-03-06T22:13:04+00:00",
+        "placa": "QAH5B92",
+        "renavam": "01135814608",
+        "resultado": "R$ 1.681,48"
+    },
+    {
+        "ts": "2026-03-06T22:07:24+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 789,50"
+    },
+    {
+        "ts": "2026-03-06T22:06:24+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 789,50"
+    },
+    {
+        "ts": "2026-03-06T22:05:19+00:00",
+        "placa": "OOO7F32",
+        "renavam": "01049102867",
+        "resultado": "R$ 388,96"
+    },
+    {
+        "ts": "2026-03-06T22:01:48+00:00",
+        "placa": "OOR2G31",
+        "renavam": "1033902028",
+        "resultado": "R$ 945,92"
+    },
+    {
+        "ts": "2026-03-06T22:01:23+00:00",
+        "placa": "ETX3A12",
+        "renavam": "00266826229",
+        "resultado": "R$ 945,92"
+    },
+    {
+        "ts": "2026-03-06T21:59:48+00:00",
+        "placa": "NSD0A93",
+        "renavam": "00554873249",
+        "resultado": "R$ 945,92"
+    },
+    {
+        "ts": "2026-03-06T21:59:10+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 2.542,30"
+    },
+    {
+        "ts": "2026-03-06T21:58:48+00:00",
+        "placa": "REY0H42",
+        "renavam": "01277545534",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:58:45+00:00",
+        "placa": "NRW0G18",
+        "renavam": "00494767081",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:58:04+00:00",
+        "placa": "NRW0G18",
+        "renavam": "00494767081",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:57:06+00:00",
+        "placa": "NSC6888",
+        "renavam": "00584887060",
+        "resultado": "R$ 778,31"
+    },
+    {
+        "ts": "2026-03-06T21:56:22+00:00",
+        "placa": "QAY8H42",
+        "renavam": "01251665958",
+        "resultado": "R$ 1.969,27"
+    },
+    {
+        "ts": "2026-03-06T21:55:44+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 789,50"
+    },
+    {
+        "ts": "2026-03-06T21:54:53+00:00",
+        "placa": "SMI3A57",
+        "renavam": "01448614594",
+        "resultado": "R$ 470,91"
+    },
+    {
+        "ts": "2026-03-06T21:54:44+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:54:30+00:00",
+        "placa": "QAY8H42",
+        "renavam": "01251665958",
+        "resultado": "R$ 2.051,45"
+    },
+    {
+        "ts": "2026-03-06T21:53:04+00:00",
+        "placa": "HTV6560",
+        "renavam": "00218644248",
+        "resultado": "R$ 2.051,45"
+    },
+    {
+        "ts": "2026-03-06T21:52:00+00:00",
+        "placa": "QAL7G08",
+        "renavam": "01184794399",
+        "resultado": "R$ 564,92"
+    },
+    {
+        "ts": "2026-03-06T21:50:40+00:00",
+        "placa": "QAL7G08",
+        "renavam": "01184794399",
+        "resultado": "R$ 564,92"
+    },
+    {
+        "ts": "2026-03-06T21:48:58+00:00",
+        "placa": "NRR1897",
+        "renavam": "00456425020",
+        "resultado": "R$ 789,50"
+    },
+    {
+        "ts": "2026-03-06T21:47:57+00:00",
+        "placa": "SMB3C81",
+        "renavam": "01400084366",
+        "resultado": "R$ 322,62"
+    },
+    {
+        "ts": "2026-03-06T21:47:04+00:00",
+        "placa": "NSC6888",
+        "renavam": "00584887060",
+        "resultado": "R$ 778,31"
+    },
+    {
+        "ts": "2026-03-06T21:46:06+00:00",
+        "placa": "QAL7607",
+        "renavam": "01184903759",
+        "resultado": "R$ 2.821,72"
+    },
+    {
+        "ts": "2026-03-06T21:45:37+00:00",
+        "placa": "NXC3B51",
+        "renavam": "00337774005",
+        "resultado": "R$ 1.179,27"
+    },
+    {
+        "ts": "2026-03-06T21:45:23+00:00",
+        "placa": "NSC6888",
+        "renavam": "254250267628",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T21:44:29+00:00",
+        "placa": "HRJ0C59",
+        "renavam": "00665646976",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T21:43:42+00:00",
+        "placa": "PEP5E07",
+        "renavam": "00338593098",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T21:42:50+00:00",
+        "placa": "MSK9H71",
+        "renavam": "00991677188",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T21:42:12+00:00",
+        "placa": "QAL7G08",
+        "renavam": "01184794399",
+        "resultado": "R$ 564,92"
+    },
+    {
+        "ts": "2026-03-06T21:42:09+00:00",
+        "placa": "MSK9H71",
+        "renavam": "00991677188",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:41:38+00:00",
+        "placa": "NRL2I02",
+        "renavam": "00397354932",
+        "resultado": "R$ 914,29"
+    },
+    {
+        "ts": "2026-03-06T21:41:24+00:00",
+        "placa": "PEP5E07",
+        "renavam": "00338593098",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T21:40:53+00:00",
+        "placa": "HSP6616",
+        "renavam": "00991677188",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T21:40:00+00:00",
+        "placa": "IQX6B29",
+        "renavam": "00220210527",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T21:39:48+00:00",
+        "placa": "NRL2L02",
+        "renavam": "00397354932",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:37:51+00:00",
+        "placa": "QAO7C93",
+        "renavam": "01184217782",
+        "resultado": "R$ 429,37"
+    },
+    {
+        "ts": "2026-03-06T21:37:30+00:00",
+        "placa": "QAL7607",
+        "renavam": "01184903759",
+        "resultado": "R$ 2.821,72"
+    },
+    {
+        "ts": "2026-03-06T21:37:18+00:00",
+        "placa": "QAO7C93",
+        "renavam": "01184217782",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:36:51+00:00",
+        "placa": "QAY3E78",
+        "renavam": "01248189415",
+        "resultado": "R$ 10.604,20"
+    },
+    {
+        "ts": "2026-03-06T21:36:25+00:00",
+        "placa": "REZ2I93",
+        "renavam": "01273197396",
+        "resultado": "R$ 607,48"
+    },
+    {
+        "ts": "2026-03-06T21:36:17+00:00",
+        "placa": "QAL7607",
+        "renavam": "01184903759",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:35:50+00:00",
+        "placa": "OOH7I48",
+        "renavam": "00597610339",
+        "resultado": "R$ 2.821,72"
+    },
+    {
+        "ts": "2026-03-06T21:35:49+00:00",
+        "placa": "QAL7607",
+        "renavam": "01184903759",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:33:52+00:00",
+        "placa": "HTU6E13",
+        "renavam": "00279100400",
+        "resultado": "R$ 3.000,14"
+    },
+    {
+        "ts": "2026-03-06T21:33:33+00:00",
+        "placa": "OOH7I48",
+        "renavam": "00597610339",
+        "resultado": "R$ 3.192,02"
+    },
+    {
+        "ts": "2026-03-06T21:31:12+00:00",
+        "placa": "QAL7G08",
+        "renavam": "01184794399",
+        "resultado": "R$ 564,92"
+    },
+    {
+        "ts": "2026-03-06T21:29:02+00:00",
+        "placa": "SMI3A57",
+        "renavam": "01448614594",
+        "resultado": "R$ 470,91"
+    },
+    {
+        "ts": "2026-03-06T21:26:35+00:00",
+        "placa": "NXC3B51",
+        "renavam": "00337774005",
+        "resultado": "R$ 1.179,27"
+    },
+    {
+        "ts": "2026-03-06T21:24:44+00:00",
+        "placa": "MJEOD64",
+        "renavam": "336742509",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T21:23:03+00:00",
+        "placa": "HTE0934",
+        "renavam": "122085899",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T21:20:59+00:00",
+        "placa": "OOL9H60",
+        "renavam": "01085201241",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T21:20:21+00:00",
+        "placa": "SMH1C21",
+        "renavam": "01442765710",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:20:07+00:00",
+        "placa": "HQY5059",
+        "renavam": "00130442380",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:20:00+00:00",
+        "placa": "OOL9H60",
+        "renavam": "01085201241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:19:26+00:00",
+        "placa": "AGG5I91",
+        "renavam": "00655793291",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T21:19:23+00:00",
+        "placa": "HQY5059",
+        "renavam": "00130442380",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:17:54+00:00",
+        "placa": "OOL9H60",
+        "renavam": "01085201241",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T21:16:28+00:00",
+        "placa": "NRS9E74",
+        "renavam": "00475406788",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:16:20+00:00",
+        "placa": "OOL9H60",
+        "renavam": "01085201241",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T21:15:28+00:00",
+        "placa": "QAF7979",
+        "renavam": "01086851444",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T21:15:13+00:00",
+        "placa": "NDX2F94",
+        "renavam": "00988638495",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T21:12:17+00:00",
+        "placa": "HRJ0C59",
+        "renavam": "00665646976",
+        "resultado": "R$ 3.260,72"
+    },
+    {
+        "ts": "2026-03-06T21:10:34+00:00",
+        "placa": "HTH4C55",
+        "renavam": "00156411903",
+        "resultado": "R$ 3.260,72"
+    },
+    {
+        "ts": "2026-03-06T20:58:03+00:00",
+        "placa": "QAC2J05",
+        "renavam": "01067262498",
+        "resultado": "R$ 1.855,83"
+    },
+    {
+        "ts": "2026-03-06T20:56:29+00:00",
+        "placa": "HSW7G41",
+        "renavam": "00786299371",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:56:06+00:00",
+        "placa": "QAP0D07",
+        "renavam": "01255920839",
+        "resultado": "R$ 460,41"
+    },
+    {
+        "ts": "2026-03-06T20:54:39+00:00",
+        "placa": "GGH3F54",
+        "renavam": "01115665011",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:54:14+00:00",
+        "placa": "QAPODO7",
+        "renavam": "01255920839",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:54:13+00:00",
+        "placa": "GGH3F54",
+        "renavam": "01115665011",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:53:58+00:00",
+        "placa": "NRW9D48",
+        "renavam": "00494383682",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:53:56+00:00",
+        "placa": "QAC2J05",
+        "renavam": "01067262498",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:53:02+00:00",
+        "placa": "QAC2J05",
+        "renavam": "01067262498",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:52:54+00:00",
+        "placa": "GGH3F54",
+        "renavam": "01115665011",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:52:46+00:00",
+        "placa": "RWJ6B05",
+        "renavam": "01359136999",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:51:55+00:00",
+        "placa": "RWJ6B05",
+        "renavam": "01359136999",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:51:23+00:00",
+        "placa": "HSP5699",
+        "renavam": "885557190",
+        "resultado": "R$ 1.017,41"
+    },
+    {
+        "ts": "2026-03-06T20:50:19+00:00",
+        "placa": "RUY7190",
+        "renavam": "01027253641",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:50:11+00:00",
+        "placa": "QAI2B50",
+        "renavam": "01133506086",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:49:28+00:00",
+        "placa": "FLH1E66",
+        "renavam": "00577412264",
+        "resultado": "R$ 1.715,17"
+    },
+    {
+        "ts": "2026-03-06T20:49:17+00:00",
+        "placa": "RUY7190",
+        "renavam": "01319648646",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:41:53+00:00",
+        "placa": "HSJ1071",
+        "renavam": "00903815109",
+        "resultado": "R$ 451,20"
+    },
+    {
+        "ts": "2026-03-06T20:41:11+00:00",
+        "placa": "QAK5H95",
+        "renavam": "01150662414",
+        "resultado": "R$ 2.903,89"
+    },
+    {
+        "ts": "2026-03-06T20:39:56+00:00",
+        "placa": "SNC0B64",
+        "renavam": "01404891762",
+        "resultado": "R$ 2.903,89"
+    },
+    {
+        "ts": "2026-03-06T20:39:51+00:00",
+        "placa": "QAK5H95",
+        "renavam": "01150662414",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:38:59+00:00",
+        "placa": "SMD3H53",
+        "renavam": "01410095875",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:37:00+00:00",
+        "placa": "SMC0B64",
+        "renavam": "01404891762",
+        "resultado": "R$ 2.772,18"
+    },
+    {
+        "ts": "2026-03-06T20:35:18+00:00",
+        "placa": "HTI0011",
+        "renavam": "00971487197",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:34:53+00:00",
+        "placa": "BUK3602",
+        "renavam": "00635486920",
+        "resultado": "R$ 1.384,62"
+    },
+    {
+        "ts": "2026-03-06T20:34:22+00:00",
+        "placa": "QAK5E26",
+        "renavam": "01179065236",
+        "resultado": "R$ 1.384,62"
+    },
+    {
+        "ts": "2026-03-06T20:34:20+00:00",
+        "placa": "BUK3602",
+        "renavam": "00635486920",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T20:33:21+00:00",
+        "placa": "SMD3H53",
+        "renavam": "01410095875",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:31:39+00:00",
+        "placa": "HTD1639",
+        "renavam": "00124197809",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:30:10+00:00",
+        "placa": "SMD3H53",
+        "renavam": "01410095875",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:29:23+00:00",
+        "placa": "RTE9G44",
+        "renavam": "01282237206",
+        "resultado": "R$ 1.479,76"
+    },
+    {
+        "ts": "2026-03-06T20:27:59+00:00",
+        "placa": "HSI2J53",
+        "renavam": "00891387897",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T20:26:38+00:00",
+        "placa": "RTE9G44",
+        "renavam": "01282237206",
+        "resultado": "R$ 1.479,76"
+    },
+    {
+        "ts": "2026-03-06T20:23:31+00:00",
+        "placa": "CLU6425",
+        "renavam": "00377445371",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T20:18:08+00:00",
+        "placa": "CLU6425",
+        "renavam": "00377445371",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T20:15:34+00:00",
+        "placa": "CLU6425",
+        "renavam": "44200413560",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T20:10:29+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T20:02:28+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:56:57+00:00",
+        "placa": "QAK6511",
+        "renavam": "01151278650",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:54:56+00:00",
+        "placa": "QAK6511",
+        "renavam": "01151278650",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:54:05+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:51:40+00:00",
+        "placa": "QAK6511",
+        "renavam": "01151278650",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:49:37+00:00",
+        "placa": "CHD5B35",
+        "renavam": "01388561570",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:49:07+00:00",
+        "placa": "CHD5B35",
+        "renavam": "00669180530",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:48:36+00:00",
+        "placa": "CHD5B35",
+        "renavam": "01388561570",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:47:47+00:00",
+        "placa": "CHD5B35",
+        "renavam": "00669180530",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:45:05+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:42:09+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:39:28+00:00",
+        "placa": "OOG3E39",
+        "renavam": "00593558782",
+        "resultado": "R$ 1.010,73"
+    },
+    {
+        "ts": "2026-03-06T19:39:20+00:00",
+        "placa": "AANA761",
+        "renavam": "C298131",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T19:38:44+00:00",
+        "placa": "CHD5B35",
+        "renavam": "00669180530",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:38:01+00:00",
+        "placa": "CHD5B35",
+        "renavam": "01388561570",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:37:03+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:36:34+00:00",
+        "placa": "SLZ4C42",
+        "renavam": "01388561570",
+        "resultado": "R$ 409,81"
+    },
+    {
+        "ts": "2026-03-06T19:35:36+00:00",
+        "placa": "SLZ4C42",
+        "renavam": "01388561570",
+        "resultado": "R$ 409,81"
+    },
+    {
+        "ts": "2026-03-06T19:34:54+00:00",
+        "placa": "CLU6425",
+        "renavam": "00377445371",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:33:33+00:00",
+        "placa": "HTV7168",
+        "renavam": "00223073725",
+        "resultado": "R$ 1.727,58"
+    },
+    {
+        "ts": "2026-03-06T19:31:17+00:00",
+        "placa": "PME1B00",
+        "renavam": "01031307777",
+        "resultado": "R$ 1.152,62"
+    },
+    {
+        "ts": "2026-03-06T19:26:54+00:00",
+        "placa": "REW3C50",
+        "renavam": "01267051881",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:25:38+00:00",
+        "placa": "RWG4E83",
+        "renavam": "01344353220",
+        "resultado": "R$ 2.814,89"
+    },
+    {
+        "ts": "2026-03-06T19:23:53+00:00",
+        "placa": "NSD3I01",
+        "renavam": "00556963270",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:23:37+00:00",
+        "placa": "QAR7A78",
+        "renavam": "01203354646",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:23:10+00:00",
+        "placa": "OOT2580",
+        "renavam": "01064360588",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T19:19:55+00:00",
+        "placa": "HSN7252",
+        "renavam": "00863657605",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:19:09+00:00",
+        "placa": "HQY0251",
+        "renavam": "00131210505",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:17:49+00:00",
+        "placa": "HSJ5G41",
+        "renavam": "00914160079",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:08:52+00:00",
+        "placa": "HFP1013",
+        "renavam": "00901940003",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T19:05:30+00:00",
+        "placa": "HQM2737",
+        "renavam": "130301965",
+        "resultado": "R$ 1.337,97"
+    },
+    {
+        "ts": "2026-03-06T19:05:17+00:00",
+        "placa": "DQK5A34",
+        "renavam": "00850678609",
+        "resultado": "R$ 1.337,97"
+    },
+    {
+        "ts": "2026-03-06T19:03:57+00:00",
+        "placa": "RWG6H82",
+        "renavam": "01335914673",
+        "resultado": "R$ 1.337,97"
+    },
+    {
+        "ts": "2026-03-06T19:03:25+00:00",
+        "placa": "SMG6G41",
+        "renavam": "01438964746",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T19:03:03+00:00",
+        "placa": "NRS9H13",
+        "renavam": "00476039614",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:02:50+00:00",
+        "placa": "SMG6G41",
+        "renavam": "01438964746",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T19:02:07+00:00",
+        "placa": "OOP2337",
+        "renavam": "01074016871",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T19:02:04+00:00",
+        "placa": "NRS9H13",
+        "renavam": "00476039614",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T19:01:49+00:00",
+        "placa": "HSL8E72",
+        "renavam": "00843189630",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T19:01:20+00:00",
+        "placa": "SMG6G41",
+        "renavam": "01438964746",
+        "resultado": "R$ 379,38"
+    },
+    {
+        "ts": "2026-03-06T19:00:49+00:00",
+        "placa": "HFP1013",
+        "renavam": "00901940003",
+        "resultado": "R$ 552,65"
+    },
+    {
+        "ts": "2026-03-06T18:59:41+00:00",
+        "placa": "HTI8386",
+        "renavam": "986682845",
+        "resultado": "R$ 9.230,93"
+    },
+    {
+        "ts": "2026-03-06T18:59:17+00:00",
+        "placa": "FAP6J55",
+        "renavam": "01107424515",
+        "resultado": "R$ 9.230,93"
+    },
+    {
+        "ts": "2026-03-06T18:55:00+00:00",
+        "placa": "HTM0A28",
+        "renavam": "00229451870",
+        "resultado": "R$ 1.004,76"
+    },
+    {
+        "ts": "2026-03-06T18:52:24+00:00",
+        "placa": "HTC0A02",
+        "renavam": "890874859",
+        "resultado": "R$ 1.004,76"
+    },
+    {
+        "ts": "2026-03-06T18:52:07+00:00",
+        "placa": "HTM0A28",
+        "renavam": "00229451870",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:52:04+00:00",
+        "placa": "NSD2644",
+        "renavam": "00587481005",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:51:34+00:00",
+        "placa": "SMI6I21",
+        "renavam": "01454888560",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:51:10+00:00",
+        "placa": "HTC0A02",
+        "renavam": "00890874859",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:51:01+00:00",
+        "placa": "NSD2644",
+        "renavam": "00587481005",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:50:55+00:00",
+        "placa": "RWD8D87",
+        "renavam": "1321011420",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:50:54+00:00",
+        "placa": "HTF0657",
+        "renavam": "00229451870",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:50:35+00:00",
+        "placa": "HSL8E72",
+        "renavam": "00843189630",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:50:10+00:00",
+        "placa": "SMI6I21",
+        "renavam": "01454888560",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:49:58+00:00",
+        "placa": "RWD8D87",
+        "renavam": "001321011420",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:49:44+00:00",
+        "placa": "EXL5B29",
+        "renavam": "01214739676",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:49:32+00:00",
+        "placa": "HSL8E72",
+        "renavam": "00843189630",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:48:35+00:00",
+        "placa": "HQY0251",
+        "renavam": "00131210505",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T18:48:25+00:00",
+        "placa": "HTF0657",
+        "renavam": "00144441691",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:48:01+00:00",
+        "placa": "EXL5B29",
+        "renavam": "01214739676",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:47:36+00:00",
+        "placa": "HSL8E72",
+        "renavam": "00843189630",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T18:46:30+00:00",
+        "placa": "NRP7629",
+        "renavam": "00409218910",
+        "resultado": "R$ 577,91"
+    },
+    {
+        "ts": "2026-03-06T18:45:49+00:00",
+        "placa": "HSL8E72",
+        "renavam": "00843189630",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:44:58+00:00",
+        "placa": "EXL5B19",
+        "renavam": "01214739676",
+        "resultado": "R$ 1.455,87"
+    },
+    {
+        "ts": "2026-03-06T18:44:52+00:00",
+        "placa": "HSL8E72",
+        "renavam": "00843189630",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:44:45+00:00",
+        "placa": "HRW8D93",
+        "renavam": "809206927",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:44:30+00:00",
+        "placa": "HTJ3018",
+        "renavam": "00152669272",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:43:53+00:00",
+        "placa": "HTJ3018",
+        "renavam": "00152669272",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:43:43+00:00",
+        "placa": "NRN5599",
+        "renavam": "O0326108394",
+        "resultado": "R$ 1.885,27"
+    },
+    {
+        "ts": "2026-03-06T18:43:15+00:00",
+        "placa": "QAK6896",
+        "renavam": "01151576074",
+        "resultado": "R$ 1.885,27"
+    },
+    {
+        "ts": "2026-03-06T18:43:03+00:00",
+        "placa": "NRP6F82",
+        "renavam": "00430241313",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:42:24+00:00",
+        "placa": "SMF4B65",
+        "renavam": "01428403334",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T18:42:20+00:00",
+        "placa": "NSB0H37",
+        "renavam": "00546158900",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:42:03+00:00",
+        "placa": "QAK6896",
+        "renavam": "01151576074",
+        "resultado": "R$ 1.885,27"
+    },
+    {
+        "ts": "2026-03-06T18:41:08+00:00",
+        "placa": "NRS9H13",
+        "renavam": "00476039614",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T18:40:57+00:00",
+        "placa": "QAK6896",
+        "renavam": "01151576074",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:40:07+00:00",
+        "placa": "NRP6F82",
+        "renavam": "00430241313",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T18:39:59+00:00",
+        "placa": "NRS9H13",
+        "renavam": "00476039614",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T18:39:19+00:00",
+        "placa": "HSD9904",
+        "renavam": "00841141215",
+        "resultado": "R$ 240,49"
+    },
+    {
+        "ts": "2026-03-06T18:39:07+00:00",
+        "placa": "NRN5599",
+        "renavam": "O0326108394",
+        "resultado": "R$ 1.299,65"
+    },
+    {
+        "ts": "2026-03-06T18:38:47+00:00",
+        "placa": "NRN5599",
+        "renavam": "O0326108394",
+        "resultado": "R$ 1.299,65"
+    },
+    {
+        "ts": "2026-03-06T18:38:39+00:00",
+        "placa": "NSB0H37",
+        "renavam": "00546158900",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:38:08+00:00",
+        "placa": "SMI7E02",
+        "renavam": "01458322421",
+        "resultado": "R$ 389,47"
+    },
+    {
+        "ts": "2026-03-06T18:38:02+00:00",
+        "placa": "SMD1B54",
+        "renavam": "01408437330",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T18:38:01+00:00",
+        "placa": "SMD1B54",
+        "renavam": "01408437330",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T18:37:38+00:00",
+        "placa": "SMD1B54",
+        "renavam": "01408437330",
+        "resultado": "R$ 0,00"
+    },
+    {
+        "ts": "2026-03-06T18:37:28+00:00",
+        "placa": "NSB0H37",
+        "renavam": "00546158900",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:37:18+00:00",
+        "placa": "AHH7286",
+        "renavam": "683154761",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:37:07+00:00",
+        "placa": "AHH7286",
+        "renavam": "683154761",
+        "resultado": "R$ 1.299,65"
+    },
+    {
+        "ts": "2026-03-06T18:36:43+00:00",
+        "placa": "AHH7286",
+        "renavam": "683154761",
+        "resultado": "R$ 1.299,65"
+    },
+    {
+        "ts": "2026-03-06T18:36:43+00:00",
+        "placa": "OOO6D37",
+        "renavam": "0124659884",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:35:24+00:00",
+        "placa": "OOO6D37",
+        "renavam": "0124659884",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:35:24+00:00",
+        "placa": "SMC8H60",
+        "renavam": "01406627027",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:35:21+00:00",
+        "placa": "NSB0H37",
+        "renavam": "00546158900",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:33:42+00:00",
+        "placa": "AHH7286",
+        "renavam": "683154761",
+        "resultado": "R$ 5.936,03"
+    },
+    {
+        "ts": "2026-03-06T18:32:52+00:00",
+        "placa": "AHH7286",
+        "renavam": "AHH7286",
+        "resultado": "R$ 5.936,03"
+    },
+    {
+        "ts": "2026-03-06T18:31:58+00:00",
+        "placa": "NSA8H94",
+        "renavam": "00528328794",
+        "resultado": "R$ 5.936,03"
+    },
+    {
+        "ts": "2026-03-06T18:31:57+00:00",
+        "placa": "SMI7E02",
+        "renavam": "01458322421",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:31:03+00:00",
+        "placa": "NSA8H94",
+        "renavam": "00528328794",
+        "resultado": "R$ 104,12"
+    },
+    {
+        "ts": "2026-03-06T18:30:14+00:00",
+        "placa": "OOK1B03",
+        "renavam": "00569800137",
+        "resultado": "R$ 104,12"
+    },
+    {
+        "ts": "2026-03-06T18:30:13+00:00",
+        "placa": "OOK1B03",
+        "renavam": "00569800137",
+        "resultado": "R$ 104,12"
+    },
+    {
+        "ts": "2026-03-06T18:30:13+00:00",
+        "placa": "OOK1B03",
+        "renavam": "00569800137",
+        "resultado": "R$ 104,12"
+    },
+    {
+        "ts": "2026-03-06T18:29:22+00:00",
+        "placa": "OOK1B03",
+        "renavam": "00569800137",
+        "resultado": "R$ 104,12"
+    },
+    {
+        "ts": "2026-03-06T18:29:19+00:00",
+        "placa": "EIJ1F11",
+        "renavam": "09393145530",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:29:18+00:00",
+        "placa": "NSA8H94",
+        "renavam": "00528328794",
+        "resultado": "R$ 5.936,03"
+    },
+    {
+        "ts": "2026-03-06T18:29:18+00:00",
+        "placa": "SMI7E02",
+        "renavam": "01458322421",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:29:03+00:00",
+        "placa": "EIJ1F11",
+        "renavam": "09393145530",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:28:37+00:00",
+        "placa": "NSA8H94",
+        "renavam": "528328794",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:28:33+00:00",
+        "placa": "EIJ1F11",
+        "renavam": "09393145530",
+        "resultado": "Puxando débitos..."
+    },
+    {
+        "ts": "2026-03-06T18:28:17+00:00",
+        "placa": "AHH7286",
+        "renavam": "683154761",
+        "resultado": "R$ 808,53"
+    },
+    {
+        "ts": "2026-03-06T18:27:07+00:00",
+        "placa": "OOQ8A77",
+        "renavam": "01060358716",
+        "resultado": "R$ 808,53"
+    },
+    {
+        "ts": "2026-03-06T18:26:05+00:00",
+        "placa": "AHH7286",
+        "renavam": "683154761",
+        "resultado": "R$ 761,57"
+    },
+    {
+        "ts": "2026-03-06T18:22:59+00:00",
+        "placa": "QAF5362",
+        "renavam": "01115808076",
+        "resultado": "R$ 761,57"
+    },
+    {
+        "ts": "2026-03-06T18:21:41+00:00",
+        "placa": "RWB6D41",
+        "renavam": "01297176704",
+        "resultado": "R$ 2.458,12"
+    }
+]
